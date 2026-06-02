@@ -19,3 +19,29 @@ Append-only record of meaningful decisions and why they were made. `/level-up` P
 Keep it terse. Future-you will thank present-you for capturing the *why*, not just the *what*.
 
 ---
+
+## 2026-06-02 — Created GTM Brainstorming Resource Folder
+
+**Decision:** Created the `PersonalOS/40_Resources/GTM Brainstorming/` folder containing a README index, a Jordan Crawford & Blueprint GTM framework guide, and a reusable Brainstorming Workbook template.
+
+**Why:** Rahi requested a dedicated folder path for fluff-free GTM brainstorming based on real practitioners. Storing this under `40_Resources` keeps the Obsidian vault organized according to the EXPANSIONS guidelines (flat structure under resources, reusable templates in a dedicated workbook, rather than raw document dumps).
+
+**Alternatives considered:** 
+- Placing it directly in the root of `PersonalOS` (rejected: clutters root directories).
+- Storing it in `50_Library/Frameworks/` (rejected: `40_Resources` fits active operational GTM assets better, and templates/workbooks belong as resources).
+
+**Owner:** AIOS / Rahi Uppal
+
+---
+
+## 2026-06-02 — Created Experience Companies Analysis Resource
+
+**Decision:** Created the `PersonalOS/40_Resources/Experience Companies Analysis.md` document analyzing 5 core pages of the 7 companies/entities in Rahi's career trajectory.
+
+**Why:** Rahi requested a page-by-page research profile of all companies in his experience to understand what they do using a structured framework. Storing this under `40_Resources` keeps historical and client details consolidated, easily referenceable for building customized value propositions or GTM models.
+
+**Alternatives considered:** 
+- Creating separate files for each company in a sub-folder (rejected: too many small files; a single consolidated file is easier to search and parse in Obsidian).
+- Appending the profiles directly to `Career & Education.md` (rejected: kept `Career & Education.md` focused on resumes/milestones, while company offerings live as a reference asset under `40_Resources`).
+
+**Owner:** AIOS / Rahi Uppal

@@ -59,3 +59,16 @@ Keep it terse. Future-you will thank present-you for capturing the *why*, not ju
 - Storing them directly under `references/` (rejected: references should remain focused on general frameworks/voice/SOPs; large-scale scraped data is better situated as operational resources under `40_Resources`).
 
 **Owner:** AIOS / Rahi Uppal
+
+---
+
+## 2026-06-02 — Created Amply Retail Outreach Plays
+
+**Decision:** Created the `PersonalOS/40_Resources/GTM Brainstorming/Amply Retail Outreach Plays.md` document outlining three highly targeted cold outreach campaigns for Heads of Retail in the US.
+
+**Why:** Rahi requested a customized messaging playbook for Amply targeting retail personas in the US. The plays are structured around the newly integrated GTM frameworks (PQS, PVP, EDP), using specific triggers like negative facility reviews, new store expansions, and manual tasks in job descriptions to deliver upfront value.
+
+**Alternatives considered:**
+- Adding it directly to `Amply GTM Automation.md` (rejected: that file is project/engineering-focused, while messaging campaigns fit better under the GTM Brainstorming resource folder).
+
+**Owner:** AIOS / Rahi Uppal

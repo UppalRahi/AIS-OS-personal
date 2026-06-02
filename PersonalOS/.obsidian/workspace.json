@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "ef7b1c27e20f5c3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b8c955adadc8bae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55a124f06699d22f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "62e222bd293aedda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a3a3b2235e8e97",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "393ab5bc60fa0c37",
+    "type": "split",
+    "children": [
+      {
+        "id": "a656999232153bf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22fc407d09d62eff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8480d232b6a9ce8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "657d999e4190d78b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "394cc7c5edaca94a",
+    "type": "split",
+    "children": [
+      {
+        "id": "86758ebd3251dd5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e683c49ab65820c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "201229a15bad9c3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "282cd9022bba063b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f9f1f204b3d3e7e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6d597a48de6e796e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "22fc407d09d62eff",
+  "lastOpenFiles": [
+    "10_Life_OS/Career & Education.md",
+    "10_Life_OS/Finance & Assets.md",
+    "10_Life_OS/Vision & Values.md",
+    "90_Archive/archives",
+    "90_Archive",
+    "40_Resources",
+    "30_Daily_Log/Templates",
+    "30_Daily_Log",
+    "20_Projects/Active",
+    "20_Projects",
+    "10_Life_OS",
+    "00_System/decisions/log.md",
+    "00_System/references/voice.md",
+    "00_System/references/3ms-framework.md",
+    "00_System/context/priorities.md",
+    "00_System/context/about-me.md",
+    "00_System/context/about-business.md",
+    "00_System/decisions",
+    "00_System/references",
+    "00_System/CLAUDE.md",
+    "00_System/connections.md",
+    "00_System/aios-intake.md",
+    "references/voice.md",
+    "context/priorities.md",
+    "context/about-business.md",
+    "context/about-me.md",
+    "CLAUDE.md",
+    "aios-intake.md",
+    "connections.md",
+    "decisions/log.md",
+    "references/3ms-framework.md",
+    "2026-06-02.md",
+    "Welcome.md"
+  ]
+}

@@ -11,7 +11,11 @@ This is the source-of-truth file for your AIOS. Fill it in by typing, voice-past
 Identity, offer, ICP. One paragraph each is fine.
 
 ```
-[Your answer here]
+Identity: Rahi Uppal, a Mechanical Engineering graduate from NIT Srinagar (CGPA 8.12/10) who fell in love with robotics and automation. I transitioned into AI automation, GTM (Go-To-Market) systems engineering, and workflow architecture. I have co-founded two startups (Traway and BoldBites/The Loud Kitchens) and completed high-leverage internships/roles at IIT Delhi, Ecoyaan, Varidus (Singapore), GrowthJockey, and Amply (Google-backed).
+
+Offer: n8n Workflow Architecture and GTM Automation engineering. I design and build event-driven, production-grade workflow systems, multi-channel AI orchestration pipelines (email, LinkedIn, WhatsApp), and data layers (SQLite, Looker Studio) that scale B2B outreach, automate lead enrichment, and optimize operational efficiency.
+
+ICP (Ideal Customer Profile): B2B startups, venture builders, family offices, and high-growth brands (like Amply, Varidus, and GrowthJockey) looking to automate their GTM motions, build custom AI-assisted workflow engines, and slash operational overhead.
 ```
 
 ---
@@ -21,11 +25,13 @@ Identity, offer, ICP. One paragraph each is fine.
 An email, a LinkedIn post, a DM, a doc — anything that sounds like you when you're not trying. **Paste verbatim.** Do not type these mid-conversation with Claude — chat-shaped samples are worse than no samples (voice contamination).
 
 ```
-[Sample 1 — paste raw]
+Sample 1 (From SOP - Background & Resilience):
+Growing up in a small village near the Line of Control in Jammu and Kashmir, I was acutely aware of how external instability could disrupt livelihoods. This reality shaped my determination to create opportunities for my community. Years later, during my entrepreneurial journey, I found that data could reveal hidden trends and power decisions that deliver real impact. While managing The Loud Kitchens at NIT Srinagar, I analysed customer data and uncovered actionable insights that increased engagement and revenue by 11%. This moment solidified my belief in analytics as a means to drive meaningful change.
 ```
 
 ```
-[Sample 2 — paste raw]
+Sample 2 (From SOP - Engineering & Startups):
+My academic background in Mechanical Engineering at NIT Srinagar enhanced my quantitative and problem-solving skills. Beyond coursework, my entrepreneurial ventures, such as Traway Travels, allowed me to apply analytics to optimise operations and increase revenue by 15% within eight months. These experiences underscored the power of data-driven decision-making. Independent projects deepened my technical expertise. Using Python and Tableau, I analysed Amazon India sales data to uncover trends and build actionable dashboards.
 ```
 
 ---
@@ -35,9 +41,9 @@ An email, a LinkedIn post, a DM, a doc — anything that sounds like you when yo
 Quarterly priorities. Not yearly aspirations. Things that, if not done by July, would make you say "I wasted Q2."
 
 ```
-1. [Priority 1]
-2. [Priority 2]
-3. [Priority 3]
+1. Build out and scale my Personal OS in Obsidian as an evergrowing second brain for my personal and professional life.
+2. Optimize and expand GTM AI orchestration pipelines at Amply (saving more time and driving more B2B meetings).
+3. Level up my technical stack around API integrations, custom MCP servers, and LLM-assisted workflows.
 ```
 
 ---
@@ -47,7 +53,7 @@ Quarterly priorities. Not yearly aspirations. Things that, if not done by July, 
 Multiple answers OK. Stripe? Skool? GoHighLevel? QuickBooks? A spreadsheet?
 
 ```
-[Your answer here]
+Amply business revenue tracked via HubSpot and internal databases. Personal finances and previous startup metrics tracked via Google Sheets and bank accounts.
 ```
 
 ---
@@ -57,7 +63,9 @@ Multiple answers OK. Stripe? Skool? GoHighLevel? QuickBooks? A spreadsheet?
 Email (which one — Gmail / Outlook)? Slack? Teams? DMs (Skool / Discord / iMessage)? Phone?
 
 ```
-[Your answer here]
+- Internal team & clients: Slack, Gmail (er.rahiuppal@gmail.com)
+- Outbound outreach: Smartlead, LinkedIn, WhatsApp (WABA)
+- Community & networking: LinkedIn DMs, WhatsApp
 ```
 
 ---
@@ -67,7 +75,8 @@ Email (which one — Gmail / Outlook)? Slack? Teams? DMs (Skool / Discord / iMes
 Granola? Otter? Fireflies? Google Drive? Notion? Dropbox? A folder on your desktop you keep meaning to organize?
 
 ```
-[Your answer here]
+- Active docs & notes: Obsidian (PersonalOS vault)
+- Company assets & databases: Google Drive, Looker Studio, SQLite database
 ```
 
 ---
@@ -77,7 +86,8 @@ Granola? Otter? Fireflies? Google Drive? Notion? Dropbox? A folder on your deskt
 The single biggest time-suck or recurring drudgery. Plus where tasks/projects live (ClickUp / Asana / Linear / Notion / a notebook).
 
 ```
-[Your answer here]
+- Task tracking: Obsidian (PersonalOS vault)
+- Biggest weekly time-sucks: Lead list curation, enrichment and verification pipelines, and debugging multi-channel outreach campaigns.
 ```
 
 ---

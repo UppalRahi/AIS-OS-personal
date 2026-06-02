@@ -51,6 +51,16 @@ graph TD
 ### **5. IIT Delhi** | *Robotics Project Intern* (Dec 2023 – Feb 2024)
 - Developed a fully operational Martian Rover under the mentorship of Dr. Jitendra P. Khatait.
 
+## Independent Consulting & AI Automation Projects
+
+A comprehensive portfolio of custom AI workflow engineering, GTM integrations, and strategic consulting delivered directly to founders and tech companies.
+
+All client cases, sourcing strategies, solutions, and project metrics are tracked in the dedicated **[Freelance OS Ledger](file:///Users/rahiuppal/Desktop/LIFE/AIS-OS-personal/PersonalOS/15_Freelance_OS/Ledger.md)**.
+
+### Featured Engagements
+- **[PMAPS (HR Tech - $2M ARR)](file:///Users/rahiuppal/Desktop/LIFE/AIS-OS-personal/PersonalOS/15_Freelance_OS/Clients/PMAPS.md)**: Built an end-to-end custom LinkedIn outreach engine using n8n and Unipile API for 5 BDRs, automating outbound workflows and replacing manual connection/DM limits.
+- **[HeyReach (LinkedIn Automation Platform)](file:///Users/rahiuppal/Desktop/LIFE/AIS-OS-personal/PersonalOS/15_Freelance_OS/Clients/HeyReach.md)**: Partnered under NDA to design and ship public-facing n8n integration templates to expand HeyReach's integration ecosystem.
+
 ---
 
 ## Skills Development Roadmap

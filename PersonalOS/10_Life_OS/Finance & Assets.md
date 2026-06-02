@@ -27,9 +27,16 @@
 
 Use this log to track active engagements, billing terms, and payments:
 
+### Active Retainers
 | Client Name | Status | Billing Cycle | Retainer/Fee | Invoice Date | Paid Date |
 |---|---|---|---|---|---|
 | **Amply** | Active | Monthly | - | - | - |
+
+### Project-Based & Freelance Ledger
+| Client Name | Project Name | Delivery Period | Revenue | Status | Notes |
+|---|---|---|---|---|---|
+| **PMAPS** | LinkedIn BDR Automation | Mar – Apr | ₹30,000 | Paid | Converted pilot from AEO conference lead; Unipile + n8n |
+| **HeyReach** | n8n Partner Templates | Oct – Nov | $290 | Paid | n8n Creator relationship leverage |
 
 ---
 

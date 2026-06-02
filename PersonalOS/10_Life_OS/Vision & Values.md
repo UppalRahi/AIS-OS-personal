@@ -32,5 +32,5 @@ To build scalable, data-driven systems and products that optimize resources, eli
 ## Long-Term Goals
 
 - **Venture Building**: Establish a venture builder or GTM automation agency in India focused on empowering local startups with analytics, AI, and workflow automation.
-- **Academic Integration**: Revisit and pursue advanced studies in Business Analytics & AI to deepen theoretical expertise and network with global innovators.
+- **Academic Integration**: Pursue a top-tier MBA (at ISB/IIMs in India, or leading business schools in Ireland/Germany) to bridge business leadership, venture capital strategy, and AI automation.
 - **Systemic Freedom**: Structure my professional life so that operational tasks are automated, allowing me to focus 100% of my energy on high-leverage business strategy, consulting, and building new ventures.

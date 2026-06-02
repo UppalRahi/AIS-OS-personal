@@ -15,6 +15,6 @@ A registry of future ideas, capability expansions, and structural improvements t
 
 ## Career & Personal Projects
 
-- **MS in Business Analytics prep**: Compile study material for advanced AI, statistics, and business intelligence techniques.
+- **MBA Admission Prep & Strategy**: Research GMAT/GRE requirements, essay templates, and admission criteria for target MBA schools (ISB, top IIMs, Ireland/Germany).
 - **USP-driven Startup Ideation**: Actively brainstorm and run market analysis for startup ideas that have high switching costs and technical defensibility.
 - **Boutique Automation Services**: Scaffold a landing page and portfolio showcasing n8n workflow designs and business optimizations (similar to your creator profile `n8n.io/creators/rahiuppal/`).

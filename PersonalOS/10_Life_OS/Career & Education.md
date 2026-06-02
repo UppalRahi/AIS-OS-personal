@@ -7,11 +7,13 @@
 - **Academic Performance**: CGPA: **8.12/10**
 - **Highlights**: Strong focus on quantitative engineering, robotics, process optimization, and system dynamics.
 
-### **The USA Master's Goal (UT Dallas)**
-- **Target**: MS in Business Analytics and AI at the Naveen Jindal School of Management.
-- **Outcome**: Successfully secured admission and a **50% scholarship**.
-- **Status**: Deferred due to visa issues, but remains a reference for future growth and academic ambitions.
-- **Reference Document**: [UTD Statement of Purpose (SOP)](file:///Users/rahiuppal/Desktop/LIFE/AIS-OS-personal/PersonalOS/00_System/UTDSOP.pdf) detailing the full J&K background story and early analytics projects.
+### **The Higher Education Target (MBA & Strategy)**
+- **Previous Goal**: MS in Business Analytics (MSBA) at UT Dallas (obtained admission & 50% scholarship). The goal was to gain a technical x business skillset with a STEM designation for a 3-year OPT work visa.
+- **The Pivot**: Due to peak US visa restrictions, the goal has shifted to pursuing an MBA at top-tier institutions.
+- **Current Targets**:
+  - **India**: Top IIMs (IIMA, IIMB, IIMC, IIMK, IIMI) or ideally **ISB** (Indian School of Business).
+  - **Europe**: Top MBA programs in **Ireland** (preferred destination) or **Germany**.
+- **Historical Reference**: [UTD Statement of Purpose (SOP)](file:///Users/rahiuppal/Desktop/LIFE/AIS-OS-personal/PersonalOS/00_System/UTDSOP.pdf) serves as a background reference detailing the J&K origins and early analytics projects.
 
 ---
 

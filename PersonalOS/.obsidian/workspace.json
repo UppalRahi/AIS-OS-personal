@@ -20,15 +20,9 @@
               "icon": "lucide-file",
               "title": "Startups & USP"
             }
-          }
-        ]
-      },
-      {
-        "id": "62e222bd293aedda",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a5a3a3b2235e8e97",
+            "id": "4284fc9ff124b238",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -37,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Life_OS/Startups & USP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Startups & USP"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,21 +166,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Life_OS/Startups & USP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Startups & USP"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,11 +192,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "22fc407d09d62eff",
+  "active": "4284fc9ff124b238",
   "lastOpenFiles": [
+    "40_Resources/GTM Brainstorming/Playbooks/Construction &amp; Trades.md",
+    "40_Resources/Experience Companies Analysis.md",
+    "00_System/UTDSOP.pdf",
+    "00_System/connections.md",
+    "00_System/CLAUDE.md",
+    "10_Life_OS/Startups & USP.md",
+    "40_Resources/GTM Brainstorming/Playbooks/README.md",
     "40_Resources/GTM Brainstorming/Amply Retail Outreach Plays.md",
     "40_Resources/GTM Brainstorming/Playbooks/Insurance.md",
-    "40_Resources/GTM Brainstorming/Playbooks/README.md",
     "40_Resources/GTM Brainstorming/Playbooks/HR &amp; Recruiting.md",
     "40_Resources/GTM Brainstorming/Playbooks/Home Services.md",
     "40_Resources/GTM Brainstorming/Playbooks/Energy &amp; Utilities.md",
@@ -218,24 +217,18 @@
     "40_Resources/GTM Brainstorming/Playbooks/Healthcare.md",
     "40_Resources/GTM Brainstorming/Playbooks/Logistics &amp; Supply Chain.md",
     "40_Resources/GTM Brainstorming/Playbooks/Government.md",
-    "40_Resources/GTM Brainstorming/Playbooks/Construction &amp; Trades.md",
     "40_Resources/GTM Brainstorming/Playbooks/Legal.md",
     "40_Resources/GTM Brainstorming/Playbooks/Technology &amp; SaaS.md",
     "40_Resources/GTM Brainstorming/Playbooks/Financial Services.md",
     "40_Resources/GTM Brainstorming/Playbooks/Manufacturing.md",
     "40_Resources/GTM Brainstorming/Playbooks",
-    "10_Life_OS/Startups & USP.md",
-    "50_Library/Reading List.md",
-    "50_Library/Templates/Book Notes Template.md",
     "50_Library/Templates",
     "50_Library/Frameworks",
     "50_Library",
-    "15_Freelance_OS/Ledger.md",
     "15_Freelance_OS/Templates",
     "15_Freelance_OS/Clients",
     "15_Freelance_OS",
     "10_Life_OS/RahiUppal_cv.pdf",
-    "10_Life_OS/linkedin:rahiuppal.pdf",
-    "00_System/UTDSOP.pdf"
+    "10_Life_OS/linkedin:rahiuppal.pdf"
   ]
 }

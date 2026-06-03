@@ -118,3 +118,91 @@ A comparison table showing the time-savings of digitized checklists vs. manual E
 - **Enrichment**: Clay / Apify (scraping LinkedIn Jobs for the target ICP brands).
 - **Filtering**: Regex checking job descriptions for operational keywords (e.g. `Excel`, `manually`, `compile`).
 - **Outreach**: n8n routes the contact details to HubSpot and enlists them in Smartlead.
+
+---
+
+## 🔵 Play 4: The "Event / Conference Booth" Sequence
+
+### 1. The Situation
+The target prospects (Heads of Retail Operations) are attending a retail trade show or conference where Amply has a physical booth. Because floor traffic is hectic, standard "book a meeting" calls fail, and they need a low-friction hook to engage during or right after the event.
+
+### 2. The Trigger
+Exhibitor list matching + LinkedIn status updates or location-based event filters identifying that the ICP prospect is attending the conference.
+
+### 3. The Permissionless Value Proposition (PVP)
+Interactive mobile checklist demo links (test the interface on their own phone without visiting the booth) or post-event operational blueprints (e.g. transitioning from WhatsApp checklists to automated tasks).
+
+### 4. Sequence Messages
+
+#### ✉️ Message 1: Initial Outreach (Campaign 1)
+> Hi `{first_name}`, inviting you to our Amply booth # 2215 (lower level). We digitize store tasks, VM executions, area manager visits into one app for Levi's, Miniso, FootLocker - would love to understand how your store operations are run today at `{company_name}` ✅ Maybe even show you a 5-min demo on the spot. We haven’t been introduced properly, but I’m Anshika, Founder at Amply - easily reachable at +91-9677-346-737 if you can’t find us at the venue 😄 - more on us at getamply.co
+
+#### ✉️ Message 2: Targeted Follow-up (Campaign 2)
+> Hello `{first_name}`, would love to meet you at Amply Booth # 2215 (lower level) if you’re visiting today. We’ll show you a demo on how we digitise store checklists, area manager audits, maintenance tickets into one app for 170+ retail chains like Kanmo, Adidas, Belgian Waffle, ASICS ✅ And help you with automations if your store tasks/SOPs are still done manually in paper, excel, Whatsapp 😄 Our booth is at Innovators’ Showcase Entry Gate (lower level). Looking forward!
+
+#### ✉️ Message 3: Drip Options (Campaign 3)
+
+##### Option A: The "Busy Floor / PVP" Play (During Event - Day 2/3)
+> Hi `{first_name}`, since the show floor is usually crazy busy, I put together a quick mobile-friendly preview of how we digitize store checklists for Adidas and Levi's ✅ No need to stop by our booth, you can test-drive the task interface directly on your phone: getamply.co/mobile-demo 📱 We're at Booth #2215 (lower level) if you want to see the back-end compliance dashboard before the event ends. Safe walking!
+
+##### Option B: The "Last Day / Urgent Sweep" Play (Final Day of Event)
+> Hello `{first_name}`, final day of the event! We’re wrapping up at Amply Booth #2215 (Innovators’ Showcase, lower level) around 3 PM today. If you have 3 mins before you head out, swing by to see how Miniso runs VM photo audits on the spot. Otherwise, would it be helpful if I dropped a 1-page PDF here showing the checklist templates we use for retail chains? Safe travels! 😄
+
+##### Option C: The "Post-Event WhatsApp Friction" Play (1-2 Days Post-Event)
+> Hi `{first_name}`, hope you've recovered from the conference! I know how hectic the show floor gets, so no worries if you couldn't make it to Booth #2215. A big topic we discussed with other retail ops leads was the 'WhatsApp lag' — how district managers waste 4+ hours a week chasing store managers for photo check-ins. I put together a quick case study showing how Kanmo moved 170+ stores from WhatsApp to automated checklists ✅ more at: getamply.co/case-study - are your store SOPs still manual or on WhatsApp/Excel at `{company_name}`?
+
+---
+
+## 🎨 Campaign 2: Re-engagement Outbound Sequences (Playbook Style - Plain Text)
+
+These sequences follow the GTM Playbook framework: direct, data-focused, starting straight with the operational problem, and ending with a low-friction question. They contain no links or attachments, and only use the standard variables: `{{first_name}}` and `{{company_name}}`.
+
+### ✉️ Option 1: The "Excel & WhatsApp Lag" Play (PQS)
+*   **Target Pain**: The operational time lost coordinating checklists and audits over unstructured messaging platforms.
+*   **Variables**: `{{first_name}}`, `{{company_name}}`
+
+> **Subject**: daily checklists at `{{company_name}}`
+> 
+> `{{first_name}}` - most retail teams scaling past 10 locations lose 4+ hours a week per manager just chasing daily checklists and area audits over WhatsApp and Excel.
+> 
+> When SOP compliance drops at a location, regional leaders usually only find out weeks later during manual reviews.
+> 
+> We help brands like Footlocker and Miniso digitize daily tasks and audits into a single mobile feed, giving district leaders real-time compliance dashboards.
+> 
+> Are store tasks at `{{company_name}}` still managed on Excel or WhatsApp, or have you digitized this process?
+
+---
+
+### ✉️ Option 2: The "Leadership Visibility Gap" Play (PQS)
+*   **Target Pain**: Lack of real-time visibility into visual merchandising (VM) setups and store compliance.
+*   **Variables**: `{{first_name}}`, `{{company_name}}`
+
+> **Subject**: store SOP compliance at `{{company_name}}`
+> 
+> `{{first_name}}` - verifying that visual merchandising setups and opening checklists are done correctly across stores usually requires regional travel or chasing managers for photos on WhatsApp.
+> 
+> This lag makes it difficult to see store-wise completion rates on daily store tasks in real-time.
+> 
+> We help retail operations teams move daily checklists, VM photo audits, and area visits into one mobile app.
+> 
+> Are you still managing store operations manually at `{{company_name}}`?
+
+---
+
+### ✉️ Option 3: The "Floor-Time Recovery" Play (PQS)
+*   **Target Pain**: Quantified floor-time lost to manual paper logs and compile times.
+*   **Variables**: `{{first_name}}`, `{{company_name}}`
+
+> **Subject**: retail operations at `{{company_name}}`
+> 
+> `{{first_name}}` - having store managers compile daily logs and maintenance tickets manually costs an average of 4.5 hours of floor-time per store, per week.
+> 
+> When field teams manage operations on paper or unstructured email chains, compliance tracking is almost impossible.
+> 
+> We digitize daily store checklists, communications, and area audits into one mobile feed for retail chains.
+> 
+> Do you think a mobile-first checklist tool could help streamline tasks at `{{company_name}}`?
+
+
+
+

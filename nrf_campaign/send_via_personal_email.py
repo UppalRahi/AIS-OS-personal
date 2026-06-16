@@ -61,15 +61,23 @@ def main():
         sys.exit(1)
 
     print(f"Loaded {len(leads)} leads from batch_10_leads.csv.")
+    
+    print("\n--- Quick List of Target Emails ---")
+    for l in leads:
+        print(f" - {l.get('email', '').strip()}")
+    print("-----------------------------------\n")
 
-    # Get credentials
-    sender_email = input(f"Enter your Gmail address (default: {DEFAULT_SENDER}): ").strip()
+    sender_email = os.environ.get('GMAIL_SENDER', '').strip()
     if not sender_email:
-        sender_email = DEFAULT_SENDER
+        sender_email_input = input(f"Enter your Gmail address (default: {DEFAULT_SENDER}): ").strip()
+        sender_email = sender_email_input if sender_email_input else DEFAULT_SENDER
 
-    print("\nTo send emails via Gmail SMTP, you need a 'Gmail App Password'.")
-    print("If you don't have one, create it in Google Account Settings -> Security -> 2-Step Verification -> App Passwords.")
-    app_password = getpass.getpass("Enter your Gmail App Password (hidden): ").strip()
+    app_password = os.environ.get('GMAIL_APP_PASSWORD', '').strip()
+    if not app_password:
+        print("\nTo send emails via Gmail SMTP, you need a 'Gmail App Password'.")
+        print("If you don't have one, create it in Google Account Settings -> Security -> 2-Step Verification -> App Passwords.")
+        app_password = getpass.getpass("Enter your Gmail App Password (hidden): ").strip()
+        
     if not app_password:
         print("Error: App password is required.")
         sys.exit(1)
@@ -86,7 +94,7 @@ def main():
         print(f"Failed to authenticate with Gmail SMTP: {e}")
         sys.exit(1)
 
-    send_all_mode = False
+    send_all_mode = os.environ.get('AUTO_SEND', 'false').lower() == 'true'
 
     for idx, lead in enumerate(leads):
         first_name = lead.get('first_name', '').strip()
@@ -147,6 +155,10 @@ def main():
             server.sendmail(sender_email, recipient_email, msg.as_string())
             server.quit()
             print(f"✓ Successfully sent email to {recipient_name} ({recipient_email})")
+            
+            # Record the successfully sent email to prevent duplicates in future batches
+            with open('/Users/rahiuppal/Desktop/LIFE/AIS-OS-personal/nrf_campaign/sent_log.txt', 'a', encoding='utf-8') as flog:
+                flog.write(recipient_email + '\n')
             
             # Sleep between requests to respect rate limits
             if idx < len(leads) - 1:

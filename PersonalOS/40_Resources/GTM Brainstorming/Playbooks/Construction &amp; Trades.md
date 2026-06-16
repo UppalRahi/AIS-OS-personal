@@ -1981,7 +1981,7 @@ Sales Rep
 #### Play: Water Systems with Converging PFAS Compliance Deadlines and Historic Violations (PQS                     Public Data | Strong - Strong (8.1/10))
 
 - **What's the play?**: Target water systems with 3 MCL violations in past 18 months where EPA's PFAS compliance deadline is October 2024. That's 8 months to design, permit, and build treatment infrastructure, creating extreme urgency.
-- **Why this works**: This message demonstrates specific knowledge of their violation count and exact compliance deadline with verifiable data. The 8-month timeline is extremely tight for treatment infrastructure - directors know this creates urgent capital project requirements. The specificity proves you understand their compliance situation.
+- **Why this works**: This message demonstrates specific knowledge of their violation count and exact compliancae deadline with verifiable data. The 8-month timeline is extremely tight for treatment infrastructure - directors know this creates urgent capital project requirements. The specificity proves you understand their compliance situation.
 - **Data Sources**:
   - EPA ECHO PFAS Analytic Tools - facility_name, drinking_water_testing_results, PFAS_compounds_detected, test_dates
   - EPA Safe Drinking Water Information System (SDWIS) - PWSID, system_name, population_served, violations, violation_dates, enforcement_actions

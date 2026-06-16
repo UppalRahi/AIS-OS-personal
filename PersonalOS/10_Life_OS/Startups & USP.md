@@ -9,14 +9,15 @@ A space to reflect on previous entrepreneurial ventures, outline lessons learned
 ### **1. Traway (Traway Travel Solutions Pvt. Ltd.)**
 *Co-founder & GTM (Dec 2022 – Jul 2024)*
 - **The Concept**: Event-based mobility and structured transportation for students and travelers in Kashmir during semester breaks.
-- **The Wins**: Scaled from a simple WhatsApp group and Google Form to an incorporated company with its registered office in Chenab Hostel, NIT Srinagar. Served **2,000+ customers** and generated **₹1.7M+ in revenue**.
+- **The Wins**: Scaled from a simple WhatsApp group and Google Form to an incorporated company with its registered office in Chenab Hostel 323, NIT Srinagar. Served **2,000+ customers** and generated **₹1.7M+ in revenue**.
 - **The Friction**: Highly seasonal, manual vendor coordination, and low barrier to entry for local operators.
 - **Reason for Shutdown**: Lacked a deep technical or infrastructural USP. It was operationally profitable but difficult to scale into a venture-backed technology platform without proprietary assets.
 
 ### **2. BoldBites Innovation Pvt. Ltd. (The Loud Kitchens)**
 *Co-founder & GTM (Aug 2023 – Dec 2023)*
 - **The Concept**: Sustainable food operations and supply chain management for the NIT Srinagar community.
-- **The Wins**: Optimized supply chain data, reducing food waste by **25%**. Collaborated with local hotels to serve over **5,000 high-quality meals** to underserved communities.
+- **The Wins**: Optimized supply chain data, reducing food waste by **25%**. Collaborated with local hotels to serve over **500 high-quality meals** Daily. 
+Also during the festival of Navratras donated 5000+ Meals to students and unpriv.
 - **Reason for Shutdown**: Operationally intensive, low margins, and lacked a defensible technological edge to compete with larger aggregators.
 
 ---

@@ -103,6 +103,38 @@ def is_excluded(company_name, email):
             
     return False, ""
 
+def is_indian(company_name, email, country, off_country, phone):
+    """Checks if the lead is Indian based on various fields."""
+    c_name = company_name.lower() if company_name else ""
+    email_lower = email.lower() if email else ""
+    country_lower = country.lower() if country else ""
+    off_country_lower = off_country.lower() if off_country else ""
+    
+    # Clean phone digits
+    phone_clean = ''.join(c for c in phone if c.isdigit()) if phone else ""
+    
+    # 1. Country match
+    if 'india' in country_lower or 'india' in off_country_lower:
+        return True, "Country contains India"
+        
+    # 2. Email domain ends with .in (e.g. .in, .co.in, .net.in)
+    if email_lower:
+        domain = email_lower.split('@')[-1]
+        if domain.endswith('.in') or domain.split('.')[-1] == 'in':
+            return True, "Email domain is Indian (.in)"
+            
+    # 3. Phone number starts with 91 (or +91)
+    if phone_clean.startswith('91') and len(phone_clean) >= 11:
+        original_phone = phone.strip()
+        if original_phone.startswith('+91') or original_phone.startswith('91') or original_phone.startswith('+ 91'):
+            return True, "Phone number starts with +91"
+            
+    # 4. Company name indicators
+    if any(suffix in c_name for suffix in ['pvt', 'private limited', 'pvt. ltd.', 'pvt. ltd', 'pvt ltd', 'ltd india', 'india pte']):
+        return True, "Company name indicates Indian registration"
+        
+    return False, ""
+
 def score_title(title):
     """Scores a job title's seniority for choosing the single best decision-maker."""
     if not title:
@@ -122,6 +154,9 @@ def main():
     parser = argparse.ArgumentParser(description="Filter and batch NRF exhibitor leads.")
     parser.add_argument('--dry-run', action='store_true', help="Run the filter and print selection without sending.")
     parser.add_argument('--send', action='store_true', help="Run the filter and upload selection to Smartlead.")
+    parser.add_argument('--batch-size', type=int, default=10, help="Number of leads to send in this batch.")
+    parser.add_argument('--campaign-id', type=int, default=DEFAULT_CAMPAIGN_ID, help="Smartlead Campaign ID.")
+    parser.add_argument('--auto-confirm', action='store_true', help="Skip interactive prompts and use defaults.")
     args = parser.parse_args()
 
     # Default to dry-run if neither is specified
@@ -146,6 +181,28 @@ def main():
     processed_rows = [r for r in rows if r.get('email_1_body')]
     print(f"Rows with generated emails: {len(processed_rows)}")
 
+    # Load already sent emails to avoid duplicates
+    previously_sent = set()
+    sent_log_path = '/Users/rahiuppal/Desktop/LIFE/AIS-OS-personal/nrf_campaign/sent_log.txt'
+    if os.path.exists(sent_log_path):
+        with open(sent_log_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                if line.strip():
+                    previously_sent.add(line.strip().lower())
+    print(f"Loaded {len(previously_sent)} previously sent emails to exclude.")
+
+    # Build a map of company -> number of sent emails so far across all batches
+    sent_counts_by_company = {}
+    for r in rows:
+        email = (r.get('Official Email') or r.get('email') or "").strip().lower()
+        if email and email in previously_sent:
+            comp_raw = r.get('company', '').strip()
+            comp_clean = clean_company_name(comp_raw).lower().strip()
+            if comp_clean:
+                sent_counts_by_company[comp_clean] = sent_counts_by_company.get(comp_clean, 0) + 1
+    
+    print(f"Loaded sent counts by company: {len(sent_counts_by_company)} companies tracked.")
+
     # Filter and group by company
     companies = {}
     excluded_log = []
@@ -153,40 +210,69 @@ def main():
     for r in processed_rows:
         comp = r.get('company', '').strip()
         email = r.get('Official Email') or r.get('email') or ""
+        country = r.get('country') or r.get('Country') or ""
+        off_country = r.get('Official Country') or r.get('Official Country') or ""
+        phone = r.get('Official Phone') or r.get('phone') or ""
         
         excluded, reason = is_excluded(comp, email)
+        if not excluded:
+            # Check Indian status
+            indian_excluded, indian_reason = is_indian(comp, email, country, off_country, phone)
+            if indian_excluded:
+                excluded = True
+                reason = indian_reason
+            elif email.lower() in previously_sent:
+                excluded = True
+                reason = "Already sent in previous batch"
+                
         if excluded:
             excluded_log.append((comp, email, reason))
             continue
 
-        comp_key = comp.lower().strip()
-        if comp_key not in companies:
-            companies[comp_key] = []
-        companies[comp_key].append(r)
+        comp_clean = clean_company_name(comp).lower().strip()
+        if not comp_clean:
+            continue
+            
+        if comp_clean not in companies:
+            companies[comp_clean] = []
+        companies[comp_clean].append(r)
 
-    print(f"Excluded {len(excluded_log)} rows based on competitor/giant filters.")
+    print(f"Excluded {len(excluded_log)} rows based on filters (competitors, giants, Indians, sent duplicates).")
     print(f"Unique non-excluded companies available: {len(companies)}")
 
-    # For each company, pick the top contact based on seniority score
+    # For each company, pick up to (3 - already_sent) contacts based on seniority score
     selected_delegates = []
     for comp_key, comp_rows in companies.items():
-        scored_rows = []
+        already_sent = sent_counts_by_company.get(comp_key, 0)
+        max_allowed_new = 3 - already_sent
+        if max_allowed_new <= 0:
+            continue
+            
+        seen_emails_in_company = set()
+        unique_scored_rows = []
         for r in comp_rows:
+            email = (r.get('Official Email') or r.get('email') or "").strip().lower()
+            if not email or email in seen_emails_in_company:
+                continue
+            seen_emails_in_company.add(email)
+            
             title = r.get('Official Title') or r.get('title') or ""
             score = score_title(title)
-            scored_rows.append((score, r))
+            unique_scored_rows.append((score, r))
         
         # Sort descending by score
-        scored_rows.sort(key=lambda x: x[0], reverse=True)
-        selected_delegates.append(scored_rows[0][1])
+        unique_scored_rows.sort(key=lambda x: x[0], reverse=True)
+        
+        # Take at most max_allowed_new contacts
+        for i in range(min(len(unique_scored_rows), max_allowed_new)):
+            selected_delegates.append(unique_scored_rows[i][1])
 
-    print(f"Deduplicated to {len(selected_delegates)} unique company decision-makers.")
+    print(f"Deduplicated to {len(selected_delegates)} eligible contacts (limit 3 per company overall).")
 
-    if len(selected_delegates) < 10:
+    batch_size = args.batch_size
+    if len(selected_delegates) < batch_size:
         print(f"Warning: Only found {len(selected_delegates)} eligible contacts. Preparing a smaller batch.")
         batch_size = len(selected_delegates)
-    else:
-        batch_size = 10
 
     # Pick a random 10 companies
     # To make it deterministic for dry-run/testing in the same run, we can seed or just let it be random
@@ -300,13 +386,16 @@ def main():
             print("Error: Smartlead API Key is required to send.")
             sys.exit(1)
 
-    campaign_id_input = input(f"Enter Campaign ID (default: {DEFAULT_CAMPAIGN_ID}): ").strip()
-    campaign_id = DEFAULT_CAMPAIGN_ID
-    if campaign_id_input:
-        try:
-            campaign_id = int(campaign_id_input)
-        except ValueError:
-            print(f"Invalid Campaign ID input. Using default: {DEFAULT_CAMPAIGN_ID}")
+    if args.auto_confirm:
+        campaign_id = args.campaign_id
+    else:
+        campaign_id_input = input(f"Enter Campaign ID (default: {args.campaign_id}): ").strip()
+        campaign_id = args.campaign_id
+        if campaign_id_input:
+            try:
+                campaign_id = int(campaign_id_input)
+            except ValueError:
+                print(f"Invalid Campaign ID input. Using default: {args.campaign_id}")
 
     # Prepare payload according to Smartlead requirements
     payload = {

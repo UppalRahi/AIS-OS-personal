@@ -1,0 +1,838 @@
+[
+  {
+    "email": "amandacolongo@shopdoen.com",
+    "first_name": "Amanda",
+    "last_name": "Colongo",
+    "company_name": "D\u00f4en",
+    "website": "shopdoen.com",
+    "location": "Fort Lauderdale, Florida, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/amanda-colongo-5b888611/",
+    "custom_fields": {
+      "job_title": "Vice President of Retail DOEN",
+      "store_count": "8",
+      "gtm_play": "expansion|manual_ops|vm|visibility_gap|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise D\u00f4en's store tasks + VM compliance into one app",
+      "email_1_body": "Hi Amanda,\n\nI noticed D\u00f4en is expanding with new stores in Chicago and Charleston\u2014exciting times ahead! \n\nWith 8 locations, ensuring consistent visual merchandising across all stores can be challenging, especially if your teams are still managing tasks on paper or WhatsApp. \n\nWe help brands like Footlocker and ASICS digitize their store tasks and VM compliance into one mobile app, giving district managers real-time visibility. \n\nWould you be open to a 30-min demo next week to see how we can streamline operations at D\u00f4en?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Amanda,\n\nJust following up on my last email. \n\nI wanted to check:\n- Are your store teams still using paper or WhatsApp for daily tasks?\n- How do you verify VM setups across your 8 locations?\n- Are you finding it challenging to maintain compliance as you expand?\n\nWith your upcoming openings, having a streamlined process will be crucial. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our app with your checklists!\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "ahahn@lucchese.com",
+    "first_name": "Angela",
+    "last_name": "Hahn",
+    "company_name": "Lucchese Bootmaker",
+    "website": "lucchese.com",
+    "location": "Dallas-Fort Worth Metroplex, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/angela-hahn-28476522/",
+    "custom_fields": {
+      "job_title": "Vice President of Retail Operations",
+      "store_count": "20+",
+      "gtm_play": "expansion|manual_ops|vm|visibility_gap|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Lucchese Bootmaker's new Arlington store?",
+      "email_1_body": "Hi Angela,\n\nCongrats on the new store opening in Arlington! With 20+ locations, ensuring that visual merchandising displays are set up correctly can be challenging without a streamlined process.\n\nI noticed that Lucchese Bootmaker might still be managing store tasks via paper or Excel. This often leads to delays in verifying compliance across locations.\n\nWe built a tool that digitizes these processes, allowing district managers to audit VM compliance quickly through photo verification.\n\nWould you be open to a brief chat next week to explore how Amply can help?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Angela,\n\nJust following up on my last email. I wanted to check:\n- Are your district managers still verifying VM setups manually?\n- Is there a delay in receiving compliance updates from store managers?\n- Are your teams spending too much time managing tasks on paper or Excel?\n\nWith your recent expansion, having a streamlined process for VM compliance is crucial. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial for you to test our app with your team.\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560"
+    }
+  },
+  {
+    "email": "jake@stateandliberty.com",
+    "first_name": "Jacob",
+    "last_name": "Allain",
+    "company_name": "State and Liberty Clothing",
+    "website": "stateandliberty.com",
+    "location": "Ann Arbor, Michigan, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/jacob-allain-48337310a/",
+    "custom_fields": {
+      "job_title": "Co-Founder & Chief Operating Officer",
+      "store_count": "40",
+      "gtm_play": "expansion|visual_merchandising",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at State and Liberty Clothing's new stores?",
+      "email_1_body": "Hi Jacob,\n\nCongrats on the recent store openings in Milwaukee, Pittsburgh, and Omaha! With 40 locations and plans for more, ensuring visual merchandising (VM) compliance across all stores can be challenging.\n\nCoordinating display setups and verifying compliance usually requires regional managers to travel or chase store managers for photos.\n\nI put together a simple photo-verification workflow that allows district managers to audit VM compliance across all locations from their desk. \n\nWould you like to see how it works?\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Jacob,\n\nJust following up on my previous email. I wanted to check if:\n\n- Your team is still manually verifying VM setups across new stores.\n- Regional managers are spending time traveling to ensure compliance.\n- Store managers are using WhatsApp to send photos for approvals.\n\nWith your expansion plans, having a streamlined process for VM compliance could save your team significant time. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to see how our platform can help.\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560"
+    }
+  },
+  {
+    "email": "ejaffe@robertgraham.us",
+    "first_name": "Elias",
+    "last_name": "Jaffe",
+    "company_name": "Robert Graham Designs",
+    "website": "robertgraham.us",
+    "location": "North Brunswick, New Jersey, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/elias-jaffe-602583a/",
+    "custom_fields": {
+      "job_title": "Vice President of Retail",
+      "store_count": "21",
+      "gtm_play": "expansion|visual_merchandising|leadership_visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Robert Graham's new Fort Worth store?",
+      "email_1_body": "Hi Elias,\n\nCongrats on the new store opening at Tanger Outlets Fort Worth! \n\nAs you expand Robert Graham's footprint to 21 locations, ensuring that visual merchandising displays are set up correctly can be challenging without real-time oversight. \n\nI mapped out a simple photo-verification workflow that allows district managers to audit VM compliance across all locations from their desk. It lets store teams submit time-stamped photos of their main displays, automatically flagging any anomalies.\n\nWould you be open to a quick chat to explore how this could help streamline your operations?\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Elias,\n\nJust following up on my previous email. I wanted to check:\n- Are your store managers still managing VM setups manually?\n- How do you ensure compliance across your 21 locations?\n- Are you finding it challenging to verify that new displays are set up correctly?\n\nWith your recent expansion, having a streamlined process for VM compliance could save a lot of time and effort. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to get started with our solution.\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "derek@stussy.com",
+    "first_name": "Derek",
+    "last_name": "Cookmeyer",
+    "company_name": "Stussy",
+    "website": "stussy.com",
+    "location": "Long Beach, California, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/derek-cookmeyer-239311109/",
+    "custom_fields": {
+      "job_title": "Director of Retail Operations",
+      "store_count": "25",
+      "gtm_play": "expansion|vm|visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Stussy's new flagship store in New York?",
+      "email_1_body": "Hi Derek,\n\nCongrats on the upcoming flagship store opening in New York on October 3rd! With 25 locations under your belt, I can imagine coordinating visual merchandising across all stores can be a challenge.\n\nAs you scale, ensuring that VM displays are set up correctly usually requires regional managers to travel or manually chase store managers for updates.\n\nI mapped out a simple photo-verification workflow that allows district managers to audit VM compliance from their desk. Would you be interested in seeing how it works?\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Derek,\n\nJust wanted to follow up on my previous email. \n\n- Are your VM teams still manually verifying setups across stores?\n- How do you ensure compliance for new openings like the one in New York?\n- Are you facing any delays in getting visual feedback from store managers?\n\nIf any of these resonate, I'd love to show you how brands like Levi's and Footlocker streamline their VM processes with Amply.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to help you test our solutions without commitment.\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "saraht@krewe.com",
+    "first_name": "Sarah",
+    "last_name": "Tava",
+    "company_name": "Krewe",
+    "website": "krewe.com",
+    "location": "Greater New Orleans Region, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/sarahtava/",
+    "custom_fields": {
+      "job_title": "Senior Director of Operations",
+      "store_count": "18",
+      "gtm_play": "expansion|visual_merchandising|leadership_visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at KREWE's new Nashville store?",
+      "email_1_body": "Hi Sarah,\n\nCongrats on KREWE's expansion with 18 locations nationwide, especially the new store in Nashville!\n\nAs you scale, verifying that visual merchandising displays are set up correctly often requires regional managers to travel or chase store managers for photos. This can slow down compliance checks.\n\nI mapped out a simple photo-verification workflow showing how district managers can audit VM compliance across all locations from their desk. \n\nWould you be open to a quick 30-min demo next week to explore how we can streamline this process?\n\nCheers,\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Sarah,\n\nJust following up on my previous email about KREWE's new Nashville store. \n\n- Are your district managers still manually verifying VM setups?\n- Do store managers have to send photos via WhatsApp for compliance checks?\n- How are you currently tracking VM compliance across your 18 locations?\n\nWith your expansion, having real-time visibility into VM compliance can help maintain your brand standards effectively.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our solution!\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "alexis.nemeth@loveshackfancy.com",
+    "first_name": "Alexis",
+    "last_name": "Nemeth",
+    "company_name": "LoveShackFancy",
+    "website": "loveshackfancy.com",
+    "location": "New York, New York, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/alexis-nemeth-50b295aa/",
+    "custom_fields": {
+      "job_title": "Senior Director of Retail Operations",
+      "store_count": "27",
+      "gtm_play": "expansion|vm|visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at LoveShackFancy's new stores?",
+      "email_1_body": "Hi Alexis,\n\nCongrats on LoveShackFancy's upcoming store openings in New Jersey, New York, and Texas! With 27 locations already, ensuring that new visual merchandising displays are set up correctly can be a challenge without the right tools.\n\nI noticed that managing VM compliance often requires regional managers to travel or manually chase store managers for updates. \n\nWe built a tool that allows district managers to verify display compliance through photo submissions, streamlining the process significantly.\n\nWould you be open to a quick 30-min demo next week to see how this could work for your new locations?\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Alexis,\n\nJust following up on my previous email. With your expansion to three new stores, I wanted to check:\n\n- How are your district managers currently verifying VM setups across locations?\n- Are store managers sending updates via WhatsApp or email?\n- Is there a system in place to track compliance in real-time?\n\nIf any of this resonates, I\u2019d love to show you how brands like Footlocker and Levi's are streamlining their VM processes.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our solution.\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560"
+    }
+  },
+  {
+    "email": "tina.falzarano@stoneycloverlane.com",
+    "first_name": "Tina",
+    "last_name": "Falzarano",
+    "company_name": "Stoney Clover Lane",
+    "website": "stoneycloverlane.com",
+    "location": "New York City Metropolitan Area",
+    "linkedin_profile": "https://www.linkedin.com/in/tina-m-falzarano/",
+    "custom_fields": {
+      "job_title": "CFO/COO",
+      "store_count": "7",
+      "gtm_play": "expansion|manual_ops|vm|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise Stoney Clover Lane's store tasks + VM compliance into one app",
+      "email_1_body": "Hi Tina,\n\nCongrats on the recent opening of your seventh store in Tampa! With your expansion plans and upcoming collaboration with Pottery Barn Kids, I can imagine managing visual merchandising and store tasks across 7 locations is quite a challenge.\n\nI noticed that you might still be using paper or Excel for these tasks. This often leads to delays and miscommunication, especially when verifying VM setups and compliance across stores.\n\nAt Amply, we help brands like Footlocker and ASICS digitize these processes into a single mobile app, ensuring real-time visibility and accountability.\n\nWould you be open to a quick 30-min demo next week to explore how we can streamline your operations?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Tina,\n\nJust following up on my previous email. I wanted to check if:\n\n- Your team is still managing store tasks and VM compliance via paper/Excel/WhatsApp.\n- Verifying that new displays are set up correctly across your 7 locations is still a manual process.\n- You\u2019re facing any delays in reporting compliance to HQ.\n\nWith your recent expansion in Tampa, having a streamlined process could really enhance efficiency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our app with your current checklists.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "todd@madhappy.com",
+    "first_name": "Todd",
+    "last_name": "Baxter",
+    "company_name": "madhappy",
+    "website": "madhappy.com",
+    "location": "Manhattan Beach, California, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/todd-baxter-15676b6/",
+    "custom_fields": {
+      "job_title": "COO",
+      "store_count": "7",
+      "gtm_play": "expansion|manual_ops|vm|visibility_gap|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise Madhappy's store tasks + VM executions into one app",
+      "email_1_body": "Hi Todd,\n\nCongrats on the recent flagship store opening in Tokyo! With plans for 8-10 new flagships globally, I can imagine the operational challenges that come with scaling across multiple locations.\n\nI noticed Madhappy is likely managing store tasks and visual merchandising via paper, Excel, or WhatsApp. This can lead to inconsistencies in VM setups and slow feedback loops for store compliance.\n\nAt Amply, we help brands like Footlocker and Levi's digitize these processes into a single mobile app, providing real-time visibility for district managers.\n\nCould we set up a 30-min demo next week to explore how this could streamline operations at Madhappy?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Todd,\n\nJust following up on my previous email. I wanted to check:\n- Are your store managers still using paper or Excel for daily tasks?\n- Is VM compliance being verified through WhatsApp or manual checks?\n- How are you tracking the completion rates across your 7 locations?\n\nWith your expansion plans, having a streamlined digital solution could really enhance operational efficiency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free pilot run to test our app with your existing checklists.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "cmccrate@lucchese.com",
+    "first_name": "Courtney",
+    "last_name": "Gray-McCrate",
+    "company_name": "Lucchese Bootmaker",
+    "website": "lucchese.com",
+    "location": "Dallas-Fort Worth Metroplex",
+    "linkedin_profile": "https://www.linkedin.com/in/courtney-gray-mccrate-aa6309a/",
+    "custom_fields": {
+      "job_title": "Head of Visual Merchandising",
+      "store_count": "20+",
+      "gtm_play": "expansion|vm|manual_ops",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Lucchese Bootmaker's new Arlington store?",
+      "email_1_body": "Hi Courtney,\n\nCongrats on the new store opening in Arlington! With 20+ locations, ensuring visual merchandising setups are consistent across all stores can be challenging, especially without a digital ops tool.\n\nI imagine your team is currently managing VM compliance manually, which can lead to inconsistencies and delays in feedback. \n\nAt Amply, we help brands like Footlocker and ASICS digitize their VM audits and store tasks, streamlining the process and giving you real-time compliance visibility.\n\nCould we set up a 30-min demo next week to explore how this could work for Lucchese?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Courtney,\n\nJust wanted to follow up on my last email. \n\n- Is your team still managing VM compliance and store tasks on paper or Excel?\n- Are regional managers spending too much time verifying setups across locations?\n- How often does your team face challenges in maintaining display standards?\n\nWith the recent expansion to Arlington, it\u2019s crucial to ensure consistency across all stores. Even a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test our app with your VM checklists.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "caroline@nililotan.com",
+    "first_name": "Caroline",
+    "last_name": "Conlan",
+    "company_name": "Nili Lotan New York",
+    "website": "nililotan.com",
+    "location": "New York City Metropolitan Area",
+    "linkedin_profile": "https://www.linkedin.com/in/caroline-conlan-32611439/",
+    "custom_fields": {
+      "job_title": "Chief Operating Officer",
+      "store_count": "7",
+      "gtm_play": "expansion|manual_ops|vm|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise Nili Lotan's store tasks + comms into one app",
+      "email_1_body": "Hi Caroline,\n\nCongrats on the recent store openings, especially the new Tribeca concept and the second store in the Hamptons! With 7 locations now, I imagine coordinating visual merchandising and daily tasks can get quite complex.\n\nI noticed that you might still be managing these tasks on paper or Excel. This often leads to delays in visibility and compliance across stores.\n\nAt Amply, we help brands like Footlocker and ASICS digitize their operations into one mobile app, streamlining tasks and enhancing communication.\n\nWould you be open to a quick 30-min demo next week to explore how we can help Nili Lotan?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Caroline,\n\nJust following up on my last email. I wanted to check if:\n- Your team is still managing store tasks and VM setups on paper or Excel?\n- There are delays in getting compliance updates across your 7 locations?\n- Your store managers are spending time chasing reports via WhatsApp?\n\nWith your recent expansion, having a streamlined process can really enhance operational efficiency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to get started with your own checklists!\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "margaret@tommyjohn.com",
+    "first_name": "Margaret",
+    "last_name": "Breitton",
+    "company_name": "Tommy John",
+    "website": "tommyjohn.com",
+    "location": "New York, New York, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/margaret-breitton/",
+    "custom_fields": {
+      "job_title": "Senior Director of Operations",
+      "store_count": "5",
+      "gtm_play": "expansion|visual_merchandising",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance for Tommy John's new store openings",
+      "email_1_body": "Hi Margaret,\n\nCongrats on the plans to expand Tommy John's retail presence by 40% this year! With 5 locations currently, ensuring consistent visual merchandising across your new stores is crucial.\n\nAs you prepare for the upcoming openings, I\u2019m curious how your team is currently verifying VM setups. Many brands face challenges managing this process without a digital tool, leading to misalignments and delays.\n\nWe built Amply to help streamline VM compliance audits with photo verification, allowing district managers to oversee multiple locations efficiently.\n\nWould you be open to a quick 30-min demo next week to explore how this could work for Tommy John?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Margaret,\n\nJust following up on my previous email. I wanted to check:\n\n- How are your teams currently managing VM setups for the new stores?\n- Are they still relying on manual processes or unstructured tools?\n- Is there a visibility gap in ensuring compliance across all locations?\n\nWith Tommy John's exciting expansion plans, it\u2019s important to ensure your visual merchandising is consistent and compliant from day one.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test our platform with your team.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "matthew.ferrante@goatusa.com",
+    "first_name": "Matthew",
+    "last_name": "Ferrante",
+    "company_name": "Goat Usa",
+    "website": "goatusa.com",
+    "location": "Manorville, New York, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/matthew-ferrante-98b7962b/",
+    "custom_fields": {
+      "job_title": "Vice President of Retail",
+      "store_count": "20+",
+      "gtm_play": "visual_merchandising_expansion|leadership_visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at GOAT USA's 20+ locations?",
+      "email_1_body": "Hi Matthew,\n\nCongrats on leading retail operations at GOAT USA!\n\nWith over 20 locations, ensuring that visual merchandising displays are set up correctly can be a challenge without real-time oversight. I noticed there haven\u2019t been recent store openings, which often means maintaining consistency across existing locations is crucial.\n\nWe help brands like Footlocker and ASICS digitize VM audits, allowing district managers to verify compliance from their desks using photo verification.\n\nAre your VM setups currently managed manually, or have you digitized this process?\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Matthew,\n\nJust following up on my previous email. I wanted to check:\n- Are your district managers still verifying VM setups manually?\n- Is there a lag in getting feedback on compliance from your stores?\n- Are your visual merchandising audits still done via WhatsApp or Excel?\n\nWith GOAT USA's 20+ locations, streamlining this process could save your team significant time.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our platform with your existing checklists.\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "ryne@mizzenandmain.com",
+    "first_name": "Ryne",
+    "last_name": "Heath",
+    "company_name": "Mizzen+Main",
+    "website": "mizzenandmain.com",
+    "location": "Dallas, Texas, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/ryneheath/",
+    "custom_fields": {
+      "job_title": "Director of Operations",
+      "store_count": "20+",
+      "gtm_play": "expansion|manual_ops|vm|visibility_gap|whatsapp_lag",
+      "play_name": "Play 2: Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise Mizzen+Main's store tasks + comms into one app",
+      "email_1_body": "Hi Ryne,\n\nCongrats on opening your 11th store in Birmingham! With plans to expand further, I\u2019m curious how your team manages visual merchandising and store tasks across your 20+ locations.\n\nIf you're still relying on paper, Excel, or WhatsApp for these processes, it can lead to visibility gaps for your district managers. \n\nAt Amply, we help brands like Levi's and Footlocker digitize their store operations into a single mobile app, streamlining tasks and ensuring compliance in real-time.\n\nWould you be open to a quick 30-min demo next week to see how we can help?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Ryne,\n\nJust following up on my last email. I wanted to check:\n\n- Are your district managers still verifying VM setups through WhatsApp or Excel?\n- How much time do store managers spend on manual reporting?\n- Is there a way for you to see real-time compliance across all stores?\n\nWith your recent expansion, having a streamlined process is crucial. Even a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial for you to test our app with your team.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "jareth@stateandliberty.com",
+    "first_name": "Jareth",
+    "last_name": "Glanda",
+    "company_name": "State and Liberty Clothing",
+    "website": "stateandliberty.com",
+    "location": "Ann Arbor, Michigan, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/jarethglanda/",
+    "custom_fields": {
+      "job_title": "Head of Operations \u2013 Made-to-Measure (MTM)",
+      "store_count": "40",
+      "gtm_play": "expansion|visual_merchandising|leadership_visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at State and Liberty Clothing's new Milwaukee store?",
+      "email_1_body": "Hi Jareth,\n\nCongrats on the recent store openings in Milwaukee, Pittsburgh, and Omaha! \n\nAs you expand to over 40 locations, verifying that your visual merchandising displays are set up correctly can be a challenge. Regional managers often need to travel or chase store managers for updates.\n\nI put together a quick flowchart showing how district managers can audit VM compliance across all your locations in under 5 minutes using automated photo verification.\n\nWould you be open to a 30-min demo next week to explore how Amply can streamline this process?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Jareth,\n\nJust wanted to follow up on my previous email. \n\n- Are your regional managers still relying on manual checks for VM compliance?\n- How are you currently verifying display setups across your 40 locations?\n- Is there a challenge in getting timely updates from store managers?\n\nWith your expansion plans, having a streamlined process can save time and ensure consistency across stores. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our app with your teams.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "frank@frankiesbikinis.com",
+    "first_name": "Frank",
+    "last_name": "Messmann",
+    "company_name": "Frankies Bikinis",
+    "website": "frankiesbikinis.com",
+    "location": "Cardiff-by-the-Sea, California, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/frank-messmann-53083210/",
+    "custom_fields": {
+      "job_title": "COO & Partner",
+      "store_count": "20+",
+      "gtm_play": "expansion|vm|visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Frankies Bikinis' new stores?",
+      "email_1_body": "Hi Frank,\n\nCongrats on the recent openings! With 6 new retail stores launched in just 2 years, ensuring visual merchandising compliance across all 20+ locations must be a top priority.\n\nAs your team scales, verifying VM setups typically requires regional managers to travel or chase store managers for updates. \n\nWe built a simple photo-verification workflow that allows district managers to audit VM compliance across all locations from their desk, saving time and ensuring consistency. \n\nWould you be open to a brief chat next week to see how this could work for Frankies Bikinis?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Frank,\n\nJust following up on my last email. Here are a few quick checks:\n\n- Are your new store openings in January facing any VM setup challenges?\n- Is your team still managing VM compliance via WhatsApp or email?\n- How often do regional managers travel to verify displays?\n\nWith your expansion, having a streamlined process can save time and enhance store performance.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to get you started!\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "sarahganzman@shopdoen.com",
+    "first_name": "Sarah",
+    "last_name": "Ganzman",
+    "company_name": "D\u00f4en",
+    "website": "shopdoen.com",
+    "location": "Los Angeles, California, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/sarahganzman/",
+    "custom_fields": {
+      "job_title": "Director of Operations",
+      "store_count": "8",
+      "gtm_play": "expansion|manual_ops|vm|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise D\u00f4en's store tasks + VM compliance into one app",
+      "email_1_body": "Hi Sarah,\n\nCongrats on the upcoming store openings in Chicago and Charleston! With 8 locations already, scaling your visual merchandising and operational tasks can be challenging, especially if you're still relying on paper and Excel.\n\nI\u2019m curious how your team currently manages VM compliance and store tasks. If it\u2019s anything like many others, your district managers might be spending too much time chasing updates via WhatsApp.\n\nAt Amply, we help brands like Footlocker and Miniso digitize these processes into a single mobile app, ensuring real-time compliance and saving valuable time.\n\nWould you be open to a quick 30-min demo next week to explore how we can support D\u00f4en's growth?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Sarah,\n\nJust following up on my previous email. I wanted to check:\n\n- Are your store managers still using paper or Excel for daily tasks?\n- How are you ensuring visual merchandising compliance across your 8 locations?\n- Are district managers spending hours on WhatsApp chasing updates?\n\nWith your expansion plans, having a streamlined digital ops tool could make a significant difference. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to get you started!\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "brooke.gerschel@loveshackfancy.com",
+    "first_name": "Brooke",
+    "last_name": "Gerschel",
+    "company_name": "LoveShackFancy",
+    "website": "loveshackfancy.com",
+    "location": "United States, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/brookegerschel/",
+    "custom_fields": {
+      "job_title": "Head of Merchandising and Buying at Love Shack Fancy",
+      "store_count": "27",
+      "gtm_play": "expansion|vm|visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at LoveShackFancy's new stores?",
+      "email_1_body": "Hi Brooke,\n\nCongrats on the upcoming openings in New Jersey, New York, and Texas! With 27 locations, ensuring that visual merchandising displays are set up correctly can be challenging without a streamlined process.\n\nAs you expand, coordinating VM rollouts often means regional managers have to travel or chase store managers for updates. \n\nWe built a tool at Amply that allows district managers to verify VM compliance quickly through photo submissions, saving time and ensuring consistency across all locations. \n\nWould you be open to a 30-min demo next week to see how this could work for LoveShackFancy?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Brooke,\n\nJust following up on my previous email regarding VM compliance as you expand to New Jersey, New York, and Texas. \n\n- Are regional managers still traveling to verify VM setups?\n- Do store managers submit photos via WhatsApp or email?\n- Is there a consistent process for ensuring display compliance across your 27 locations?\n\nIf any of these resonate, I\u2019d love to show you how other brands like Footlocker and ASICS have streamlined this process with Amply. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test out our solution!\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560"
+    }
+  },
+  {
+    "email": "brittanycaldwell@shopdoen.com",
+    "first_name": "Brittany",
+    "last_name": "Caldwell",
+    "company_name": "D\u00f4en",
+    "website": "shopdoen.com",
+    "location": "New York, New York, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/brittanycaldwell/",
+    "custom_fields": {
+      "job_title": "Senior Director of Visual Merchandising",
+      "store_count": "8",
+      "gtm_play": "expansion|manual_ops|vm|visibility_gap|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Visual merchandising compliance for D\u00f4en's new stores",
+      "email_1_body": "Hi Brittany,\n\nI noticed D\u00f4en is expanding with new store openings in Chicago and Charleston\u2014exciting times ahead!\n\nAs the Senior Director of Visual Merchandising, ensuring your displays are set up correctly across all 8 locations must be a priority. Without a digital ops tool, I can imagine your team is managing tasks through paper or WhatsApp, which can lead to compliance gaps.\n\nAmply helps brands like Footlocker and Miniso streamline visual merchandising audits with automated photo verification, allowing district managers to ensure compliance from their desks.\n\nWould you be open to a 30-min demo next week to explore how we can help D\u00f4en maintain display standards across your new locations?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Brittany,\n\nJust following up on my previous email. With D\u00f4en's expansion into Chicago and Charleston, I wanted to check:\n\n- Are your visual merchandising setups currently verified through paper or Excel?\n- Is your team spending time chasing store managers for compliance photos?\n- Do your district leaders lack real-time visibility into display standards across the stores?\n\nIf any of these resonate, I'd love to show you how Amply can simplify this process.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to help you get started!\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "lrobin@alexapparel.com",
+    "first_name": "Lawrence",
+    "last_name": "Robin",
+    "company_name": "Alex Apparel Group",
+    "website": "alexevenings.com",
+    "location": "Westfield, New Jersey, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/lawrence-robin-0045959/",
+    "custom_fields": {
+      "job_title": "Chief Financial Officer and Chief Operating Officer",
+      "store_count": "3",
+      "gtm_play": "expansion|vm|visibility_gap|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Store SOP compliance at Alex Apparel Group",
+      "email_1_body": "Hi Lawrence,\n\nWith Alex Apparel Group's 3 locations, ensuring consistent visual merchandising and operational standards across stores is crucial as you continue to grow. \n\nI noticed that managing store tasks and compliance often relies on manual processes like Excel or WhatsApp, which can lead to visibility gaps. \n\nAt Amply, we help brands like Footlocker and Miniso digitize daily tasks and VM audits into one mobile app, giving you real-time compliance insights. \n\nWould you be open to a 30-min demo next week to explore how we can streamline your operations?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Lawrence,\n\nJust following up on my previous email. I wanted to check:\n\n- Are your store managers still compiling daily tasks and VM audits manually?\n- Is there a challenge in ensuring consistent compliance across your 3 locations?\n- Do your district managers face delays in verifying store setups?\n\nAs Alex Apparel Group looks to expand, having a streamlined process for store operations can save valuable time and enhance visibility.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to help you get started.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "dara@lakepajamas.com",
+    "first_name": "Dara",
+    "last_name": "Jones",
+    "company_name": "Lake",
+    "website": "lakepajamas.com",
+    "location": "Charleston, South Carolina, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/dara-jones-a0a75a28/",
+    "custom_fields": {
+      "job_title": "Director Of Retail Operations",
+      "store_count": "5",
+      "gtm_play": "expansion|manual_ops|vm|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise LAKE's store tasks + comms + VM audits into one app",
+      "email_1_body": "Hi Dara,\n\nCongrats on the new store opening in Charlotte! With LAKE expanding to 5 locations, I\u2019m curious how your team is managing store tasks and visual merchandising setups.\n\nIf you\u2019re like many retailers, your district managers might be relying on paper, Excel, or WhatsApp for daily checklists and VM compliance. This often leads to delays in visibility and accountability.\n\nAt Amply, we help brands like Footlocker and ASICS digitize their operations into a single mobile app for real-time compliance.\n\nCould a tool like this help streamline your store operations?\n\nHappy to set up a 30-min demo next week if you're interested.\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Dara,\n\nJust following up on my previous email. I wanted to check:\n- Are your district managers still using paper or Excel for daily checklists?\n- Is VM compliance checked manually, leading to delays?\n- How are you tracking task completion across your 5 locations?\n\nWith your expansion in Charlotte, having a streamlined process is crucial for maintaining consistency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our solution with your team.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "luca.mainini@slowear.com",
+    "first_name": "Luca",
+    "last_name": "Mainini",
+    "company_name": "Slowear",
+    "website": "slowear.com",
+    "location": "Milano, Lombardia, Italia",
+    "linkedin_profile": "https://www.linkedin.com/in/lucamainini/",
+    "custom_fields": {
+      "job_title": "Group COO - CFO",
+      "store_count": "30",
+      "gtm_play": "expansion|vm",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Slowear's new London store?",
+      "email_1_body": "Hi Luca,\n\nCongrats on the upcoming London store opening this Autumn! With 30 locations globally, I can imagine coordinating visual merchandising rollouts across all stores must be a challenge.\n\nAs you expand, ensuring that new displays are set up correctly typically requires significant time from your regional managers, often leading to delays in compliance visibility.\n\nWe built Amply to streamline this process with automated photo verification workflows, allowing district managers to audit VM compliance efficiently from their desks.\n\nWould you be open to a quick 30-min demo next week to explore how we can support your new store's launch?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Luca,\n\nJust following up on my previous email regarding your London store opening. I wanted to check:\n\n- Are your visual merchandising setups still verified through manual processes?\n- Do your regional managers spend hours traveling to ensure compliance?\n- Is there a risk of delays in getting feedback on display setups?\n\nWith your expansion plans, having a streamlined process could save valuable time and ensure consistency across all locations. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to help you test our solution.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "larry.jordan@billyreid.com",
+    "first_name": "Larry",
+    "last_name": "Jordan",
+    "company_name": "Billy Reid",
+    "website": "billyreid.com",
+    "location": "United States, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/larry-jordan-27255910/",
+    "custom_fields": {
+      "job_title": "Head of Merchandising",
+      "store_count": "20+",
+      "gtm_play": "visual_merchandising_expansion",
+      "play_name": "Play 2: Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance for Billy Reid's 20+ locations",
+      "email_1_body": "Hi Larry,\n\nI noticed Billy Reid has over 20 locations, and as you expand, ensuring visual merchandising setups are consistent across all stores can be challenging without a streamlined process.\n\nWhen district managers have to manually verify VM displays, it often leads to delays and inconsistencies. \n\nWe built a tool that allows store managers to submit time-stamped photos of their displays, giving you real-time insights into compliance.\n\nWould you be open to a 30-min demo next week to see how this can help?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Larry,\n\nJust following up on my previous email. I wanted to check:\n\n- Are your district managers still traveling to verify VM setups?\n- How are you currently tracking compliance across your 20+ stores?\n- Is there a risk of inconsistencies during store audits?\n\nWith your current expansion, having a streamlined process for VM compliance could save a lot of time.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our solution.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "alessandra.valensise@icicle.com",
+    "first_name": "Alessandra",
+    "last_name": "Valensise",
+    "company_name": "Icicle",
+    "website": "icicle.com",
+    "location": "Paris, \u00cele-de-France, France",
+    "linkedin_profile": "https://www.linkedin.com/in/alessandra-valensise-93000438/",
+    "custom_fields": {
+      "job_title": "ICICLE - Head of Operations-Paris Hub-Ready to Wear",
+      "store_count": "240",
+      "gtm_play": "expansion|visual_merchandising|leadership_visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Icicle's new Paris stores?",
+      "email_1_body": "Hi Alessandra,\n\nCongrats on the upcoming third store opening in Paris! With 240 locations, ensuring that your visual merchandising setups are consistent across all stores can be challenging.\n\nAs you expand, coordinating VM rollouts typically requires regional managers to travel or manually check in with store teams. \n\nWe built a tool that digitizes this process, allowing district managers to verify compliance quickly through photo submissions from store managers. \n\nWould you be interested in seeing how this could streamline your operations?\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Alessandra,\n\nJust following up on my previous email. I wanted to check:\n- Are your store teams still manually tracking VM setups?\n- Do regional managers spend time traveling to verify compliance?\n- Is there a gap in visibility for your new store openings?\n\nWith your expansion in Paris, having real-time insights could be crucial. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test our app with your teams.\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "n.gargiulo@untuckit.com",
+    "first_name": "Nick",
+    "last_name": "Gargiulo",
+    "company_name": "UNTUCKit",
+    "website": "untuckit.com",
+    "location": "Hartsdale, New York, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/nick-gargiulo-500aa961/",
+    "custom_fields": {
+      "job_title": "Chief Operating Officer",
+      "store_count": "80",
+      "gtm_play": "expansion|vm",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at UNTUCKit's new stores?",
+      "email_1_body": "Hi Nick,\n\nCongrats on the recent store openings in March and the plans for 14 more by the end of 2024 at UNTUCKit!\n\nAs you expand to around 90 locations, ensuring visual merchandising setups are consistent across all stores can be a challenge. Coordinating these rollouts typically requires regional managers to travel or chase store managers for updates.\n\nI put together a simple photo-verification workflow that allows district managers to verify display compliance from their desk in under 5 minutes.\n\nWould you be open to a quick chat to explore how this could streamline your operations?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Nick,\n\nJust following up on my last email. I wanted to check if:\n- Your team is still managing VM compliance manually across 80 stores.\n- Regional managers are traveling to verify setups in new locations.\n- Store managers are sending photos via WhatsApp for compliance checks.\n\nWith your expansion plans, having a streamlined process for VM audits could save significant time and ensure consistency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test our solution.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "clight@railsclothing.com",
+    "first_name": "Chris",
+    "last_name": "Light",
+    "company_name": "Rails",
+    "website": "rails.com",
+    "location": "Hermosa Beach, California, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/chris-light-3793314/",
+    "custom_fields": {
+      "job_title": "Chief Operating Officer",
+      "store_count": "18",
+      "gtm_play": "expansion|visual_merchandising|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Rails' new Bethesda store?",
+      "email_1_body": "Hi Chris,\n\nCongrats on the recent store opening in Bethesda! With 18 locations and more on the way in Chicago and Nashville, ensuring your visual merchandising displays are set up correctly can be a challenge.\n\nI imagine coordinating this across multiple stores requires a lot of manual follow-ups, especially if your team is still relying on WhatsApp or Excel for compliance checks.\n\nWe built a tool that simplifies this process, allowing district managers to verify VM setups with photo submissions, saving time and ensuring consistency.\n\nWould you be open to a 30-min demo next week to explore how Amply can streamline this for Rails?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Chris,\n\nJust following up on my last email about your new store in Bethesda. I wanted to check:\n- Are your visual merchandising setups still verified manually?\n- Is your team spending time on WhatsApp chasing store managers for compliance photos?\n- How are you currently tracking VM compliance across all 18 locations?\n\nIf any of these resonate, I'd love to show you how brands like Footlocker and ASICS have automated their VM processes with Amply.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our solutions.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "adunsky@undergroundshirts.com",
+    "first_name": "Annie",
+    "last_name": "Dunsky",
+    "company_name": "Underground Printing",
+    "website": "undergroundshirts.com",
+    "location": "Royal Oak, Michigan, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/annie-dunsky-487083b/",
+    "custom_fields": {
+      "job_title": "Director Of Operations",
+      "store_count": "30",
+      "gtm_play": "expansion|vm",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Underground Printing's new Boulder store?",
+      "email_1_body": "Hi Annie,\n\nCongrats on the upcoming store opening in Boulder! With 30 locations, ensuring your visual merchandising displays are set up correctly across all stores can be a challenge.\n\nTypically, this requires regional managers to travel or manually chase store managers for updates.\n\nI\u2019ve put together a quick workflow showing how district managers can audit VM compliance across all your locations from their desk. It streamlines the process and saves valuable time.\n\nWould you be open to a 30-min demo next week to explore this further?\n\nBest,\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Annie,\n\nJust following up on my last email. I wanted to check:\n\n- Are your regional managers still manually verifying VM setups for new stores?\n- How often do store managers submit photos for compliance checks?\n- Is there a centralized system for tracking VM compliance across your 30 locations?\n\nWith your expansion into Boulder, having a streamlined process could really help maintain consistency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test our solution with your team.\n\nBest,\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560"
+    }
+  },
+  {
+    "email": "arichey@thirdlove.com",
+    "first_name": "Amber-lynn",
+    "last_name": "Richey",
+    "company_name": "Thirdlove",
+    "website": "thirdlove.com",
+    "location": "Chico, California, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/amber-lynn/",
+    "custom_fields": {
+      "job_title": "Director of Retail Operations",
+      "store_count": "8",
+      "gtm_play": "expansion|visual_merchandising|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Thirdlove's new stores?",
+      "email_1_body": "Hi Amber-lynn,\n\nCongrats on Thirdlove's plans to open 12-16 new stores this year! With 8 locations already, ensuring consistent visual merchandising across all stores can be a challenge.\n\nI imagine coordinating setups and compliance checks without a streamlined process could lead to missed opportunities, especially with the expansion ahead. \n\nAt Amply, we help brands like Footlocker and Levi's automate VM compliance checks through a simple mobile app, reducing the time spent on manual follow-ups.\n\nCould we set up a quick 30-min demo next week to explore how we can support your team during this exciting growth phase?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Amber-lynn,\n\nJust following up on my previous email. I wanted to check:\n\n- Are your store managers still relying on WhatsApp for VM compliance updates?\n- How do you verify that new displays are set up correctly across your 8 stores?\n- Is there a system in place to track the rollout of VM standards for the upcoming openings?\n\nWith your expansion plans, streamlining this process could save your team valuable time.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our solution with your team.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "bruce.migliaccio@loveshackfancy.com",
+    "first_name": "Bruce",
+    "last_name": "Migliaccio",
+    "company_name": "LoveShackFancy",
+    "website": "loveshackfancy.com",
+    "location": "New York, New York, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/bruce-migliaccio-ab192632/",
+    "custom_fields": {
+      "job_title": "Chief Financial Officer and Chief Operating Officer",
+      "store_count": "27",
+      "gtm_play": "expansion|vm|visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at LoveShackFancy's new stores?",
+      "email_1_body": "Hi Bruce,\n\nCongrats on the upcoming openings in New Jersey, New York, and Texas! With 27 locations, ensuring that your visual merchandising displays are set up correctly across all stores can be a challenge.\n\nAs you expand, verifying compliance usually requires regional managers to travel or chase store managers for updates. \n\nI put together a quick workflow showing how district managers can audit VM compliance across all locations from their desk using automated photo verification.\n\nWould you be open to a 30-min demo next week to explore this further?\n\nCheers,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Bruce,\n\nJust following up on my previous email. I wanted to check:\n- Are your new store setups still managed through manual processes?\n- How often are your regional managers verifying VM compliance across locations?\n- Are store managers currently sending updates via WhatsApp or email?\n\nWith your expansion plans, having a streamlined process could save significant time and ensure consistency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to help you get started.\n\nCheers,\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "alessandro.mancin@slowear.com",
+    "first_name": "Alessandro",
+    "last_name": "Mancin",
+    "company_name": "Slowear",
+    "website": "slowear.com",
+    "location": "Milan, Lombardy, Italy",
+    "linkedin_profile": "https://www.linkedin.com/in/alessandro-mancin-96a62936/",
+    "custom_fields": {
+      "job_title": "Head of Merchandising",
+      "store_count": "30",
+      "gtm_play": "expansion|vm|visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Slowear's new London store?",
+      "email_1_body": "Hi Alessandro,\n\nCongrats on the upcoming store opening in London this Autumn! With 30 locations globally, ensuring that your visual merchandising displays are set up correctly across all stores can be challenging.\n\nAs you expand, verifying compliance often requires regional managers to travel or chase store managers for photos on WhatsApp.\n\nI mapped out a simple photo-verification workflow showing how district managers can audit VM compliance across all locations from their desk. \n\nWould you be open to a quick 30-min demo next week to explore how we can streamline this process for Slowear?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Alessandro,\n\nJust wanted to follow up on my previous email about your new London store. \n\n- Are your teams still manually verifying VM setups across locations?\n- Do your store managers rely on WhatsApp for photo check-ins?\n- Is there a visibility gap for you in ensuring compliance at all stores?\n\nWith 25 new stores planned globally, having a streamlined process could save valuable time and improve compliance.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to get started with our solution.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "richard@goatusa.com",
+    "first_name": "Richard",
+    "last_name": "Alfaro",
+    "company_name": "Goat Usa",
+    "website": "goatusa.com",
+    "location": "Westbury, New York, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/richard-alfaro-59009a106/",
+    "custom_fields": {
+      "job_title": "Co-Founder & COO",
+      "store_count": "20+",
+      "gtm_play": "visual_merchandising|leadership_visibility_gap",
+      "play_name": "Play 2: Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at your new Goat USA store?",
+      "email_1_body": "Hi Richard,\n\nCongrats on the growth at GOAT USA! With 20+ locations, coordinating visual merchandising across all stores can be a challenge.\n\nI noticed there\u2019s no mention of recent or upcoming store openings, which often leads to inconsistencies in VM setups. It can be tough to verify that displays are set up correctly without regional travel.\n\nWe built a tool that allows district managers to audit VM compliance using automated photo verification, making it easy to ensure every store meets your standards.\n\nWould you be open to a quick chat next week to explore this further?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Richard,\n\nJust following up on my last email. I wanted to check:\n- Are your VM setups verified manually across your 20+ locations?\n- Do district managers face challenges ensuring compliance without travel?\n- Are store teams still using WhatsApp or Excel for coordination?\n\nGiven your focus on execution at GOAT USA, I believe automating these processes could save significant time and enhance compliance.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to help you get started!\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560"
+    }
+  },
+  {
+    "email": "smeltzer@uspagl.com",
+    "first_name": "Shari",
+    "last_name": "Meltzer",
+    "company_name": "U.S. Polo Assn",
+    "website": "uspoloassnglobal.com",
+    "location": "West Palm Beach, Florida, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/shari-meltzer-9201a02/",
+    "custom_fields": {
+      "job_title": "Senior Director of Operations",
+      "store_count": "20+",
+      "gtm_play": "expansion|manual_ops|vm|visibility_gap|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise U.S. Polo Assn's store tasks + VM compliance into one app",
+      "email_1_body": "Hi Shari,\n\nI noticed U.S. Polo Assn is actively expanding with a target of reaching 1,500 stores worldwide, currently managing over 20 locations. \n\nAs your team opens new flagship stores, ensuring visual merchandising setups are compliant can be challenging without a digital ops tool. With your current reliance on paper and Excel, it\u2019s likely that regional managers are spending valuable time chasing store managers for updates.\n\nAt Amply, we help brands like Levi's and Footlocker streamline their store tasks and VM compliance into one app, allowing for real-time visibility and accountability.\n\nWould you be open to a 30-min demo next week to explore how we can support your expansion efforts?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Shari,\n\nJust following up on my last email. I wanted to check if:\n- Your team is still managing VM compliance via paper or Excel.\n- Regional managers are spending hours chasing updates from store managers.\n- You\u2019re facing any challenges with new store openings and maintaining visual standards.\n\nWith U.S. Polo Assn\u2019s expansion plans, having a streamlined process is crucial. Even a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to help you test our platform with your current workflows.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "tdasilva@onwardreserve.com",
+    "first_name": "Roberto",
+    "last_name": "DaSilva",
+    "company_name": "Onward Reserve",
+    "website": "onwardreserve.com",
+    "location": "Atlanta, Georgia, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/rtdasilva/",
+    "custom_fields": {
+      "job_title": "Head Of Merchandising And Planning",
+      "store_count": "12",
+      "gtm_play": "expansion|vm",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Onward Reserve's new Thomasville store?",
+      "email_1_body": "Hi Roberto,\n\nCongrats on the upcoming store opening in Thomasville, GA! With 12 locations and your expansion plans, ensuring visual merchandising compliance across stores is crucial.\n\nI\u2019ve noticed that coordinating VM rollouts often requires regional managers to travel or manually check in with store managers. We built a tool that allows district managers to verify display setups through automated photo verification, saving time and ensuring consistency.\n\nWould you be open to a quick chat next week to explore how this could streamline your operations?\n\nCheers,\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Roberto,\n\nJust following up on my last email. I wanted to check if:\n\n- Your team is still managing VM compliance manually across your 12 locations.\n- Regional managers are traveling to verify setups at new stores.\n- Store managers are using WhatsApp or Excel for reporting.\n\nAs Onward Reserve expands, automating these processes could save significant time and improve consistency. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test our solution.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "maribeth.mertes@billyreid.com",
+    "first_name": "Maribeth",
+    "last_name": "Mertes",
+    "company_name": "Billy Reid",
+    "website": "billyreid.com",
+    "location": "Greater Minneapolis-St. Paul Area, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/maribeth-mertes-b364215b/",
+    "custom_fields": {
+      "job_title": "Director of Retail Operations",
+      "store_count": "20+",
+      "gtm_play": "expansion|manual_ops|vm|visibility_gap|whatsapp_lag",
+      "play_name": "Campaign 2 Option 1: Excel & WhatsApp Lag (PQS)",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise Billy Reid's store tasks + comms into one app",
+      "email_1_body": "Hi Maribeth,\n\nWith 20+ locations, I imagine managing daily store tasks and visual merchandising can get overwhelming, especially if your teams are still relying on Excel or WhatsApp for coordination.\n\nWe help brands like Footlocker and ASICS digitize their operations, providing real-time visibility into compliance and performance across all stores. This way, district leaders can focus on improving customer experience rather than chasing manual reports.\n\nWould you be open to a quick 30-min demo next week to see how Amply can streamline your operations?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Maribeth,\n\nJust circling back to see if you\u2019ve had a chance to consider my previous email. \n\n- Are your store managers still compiling daily reports manually?\n- Is your team using WhatsApp for visual merchandising updates?\n- How often do your district leaders get real-time insights into store compliance?\n\nWith your 20+ locations, I can imagine these manual processes might be slowing things down. Even a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to see how Amply fits your needs.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "s.ortiz@monastery.com.co",
+    "first_name": "Sebastian",
+    "last_name": "Giraldo",
+    "company_name": "Monastery",
+    "website": "monasterycouture.com.co",
+    "location": "Miami, Florida, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/sebastian-ortiz-giraldo-a639a0ba/",
+    "custom_fields": {
+      "job_title": "Head of Operations USA",
+      "store_count": "20+",
+      "gtm_play": "expansion|manual_ops|vm|whatsapp_lag",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise Monastery's store tasks + comms + VM audits into one app",
+      "email_1_body": "Hi Sebastian,\n\nCongrats on the exciting plans to open 10 stores in Colombia and 2 in Miami next year! With 20+ locations, I imagine ensuring consistent visual merchandising across all stores can be challenging, especially without a digital ops tool.\n\nMany brands like Footlocker and Levi's have faced similar hurdles managing tasks and VM compliance through paper and Excel. \n\nAmply can help streamline your operations by digitizing store tasks and VM audits into one app, giving you real-time visibility and accountability.\n\nWould you be open to a quick 30-min demo next week to explore how we can support your expansion?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Sebastian,\n\nJust following up on my last email. I wanted to check if:\n\n- Your store managers are still using paper or Excel for daily tasks and VM audits.\n- You have visibility into how each store is performing with the upcoming openings.\n- Your team is spending hours chasing compliance reports over WhatsApp.\n\nWith your expansion plans in Colombia and Miami, having a streamlined process could save significant time and improve consistency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to get you started!\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560"
+    }
+  },
+  {
+    "email": "dmcneill@birksgroup.com",
+    "first_name": "Deena",
+    "last_name": "McNeill",
+    "company_name": "Maison Birks",
+    "website": "birksgroup.com",
+    "location": "North Vancouver, British Columbia, Canada",
+    "linkedin_profile": "https://www.linkedin.com/in/deena-mcneill-34879145/",
+    "custom_fields": {
+      "job_title": "Group Divisional VP - Retail Operations",
+      "store_count": "20+",
+      "gtm_play": "expansion|vm|visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Maison Birks' new store openings?",
+      "email_1_body": "Hi Deena,\n\nCongrats on opening two new stores under the TimeVall\u00e9e and Birks brands this fiscal year! With 20+ locations, ensuring consistent visual merchandising across all stores can be a challenge.\n\nI imagine coordinating VM setups for these new openings requires a lot of back-and-forth communication. Many brands find that manual processes lead to delays and inconsistencies.\n\nWe built Amply to automate VM compliance checks using photo verification, allowing district managers to audit setups quickly without traveling.\n\nWould you be open to a 30-min demo next week to see how this could streamline your operations?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Deena,\n\nJust following up on my last email about visual merchandising at your new store openings. I wanted to check if:\n\n- Your team is still managing VM setups manually.\n- District managers are traveling to verify compliance across locations.\n- You're facing delays in getting feedback on store setups.\n\nWith your recent expansion, having a streamlined process could save time and ensure consistency across all 20+ locations.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our mobile tool.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "alefor@glassybaby.com",
+    "first_name": "Ashley",
+    "last_name": "Lefor",
+    "company_name": "glassybaby",
+    "website": "glassybaby.com",
+    "location": "Greater Seattle Area",
+    "linkedin_profile": "https://www.linkedin.com/in/ashley-a-lefor/",
+    "custom_fields": {
+      "job_title": "Director of Operations",
+      "store_count": "20+",
+      "gtm_play": "expansion|vm|visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at glassybaby's new Texas store?",
+      "email_1_body": "Hi Ashley,\n\nCongrats on the recent openings at glassybaby, especially the new retail store in Texas at NorthPark Center!\n\nAs you expand to 20+ locations, ensuring that visual merchandising setups are consistent across all stores can be challenging. Verifying that new displays are set up correctly often requires regional travel or constant follow-ups with store managers.\n\nI\u2019ve mapped out a simple photo-verification workflow that could help your district managers audit VM compliance quickly without leaving their desks. \n\nWould you be open to a quick chat next week to explore this further?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Ashley,\n\nJust following up on my last email. I wanted to check:\n\n- Are your store managers still coordinating VM setups via WhatsApp or Excel?\n- How do you ensure compliance across your new Texas location?\n- Are your district managers spending too much time on travel for audits?\n\nWith your expansion, having a streamlined process for VM compliance could save time and improve consistency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test our solution.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "jdagostino@clarev.com",
+    "first_name": "Jessica",
+    "last_name": "D'Agostino",
+    "company_name": "Clare V",
+    "website": "clarev.com",
+    "location": "New York City Metropolitan Area",
+    "linkedin_profile": "https://www.linkedin.com/in/jessica-d-agostino-07b41856/",
+    "custom_fields": {
+      "job_title": "Director of Retail Operations",
+      "store_count": "15",
+      "gtm_play": "expansion|vm",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Clare V's new store openings?",
+      "email_1_body": "Hi Jessica,\n\nCongrats on the recent expansion at Clare V with 15 store locations and upcoming openings! \n\nAs you scale, ensuring that visual merchandising displays are set up correctly can be challenging without a streamlined process. I\u2019ve seen many brands struggle with verifying compliance across multiple locations, often relying on manual checks or WhatsApp communications.\n\nI\u2019d love to share a quick workflow showing how district managers can verify VM compliance across all locations from their desks using automated photo verification.\n\nWould you be open to a 30-min demo next week?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Jessica,\n\nJust following up on my previous email. I wanted to check in on a few things:\n\n- Are your store teams still managing VM setup confirmations via WhatsApp?\n- How do your district managers currently verify compliance across all 15 locations?\n- Is there a real-time view of VM execution across your stores?\n\nWith Clare V's expansion, having a solid process in place for visual merchandising can make a big difference in maintaining brand standards.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test our platform with your teams.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "cecile.levinger@thewebster.com",
+    "first_name": "Cecile",
+    "last_name": "Levinger",
+    "company_name": "The Webster",
+    "website": "thewebster.com",
+    "location": "Miami Beach, Florida, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/cecile-levy-09349045/",
+    "custom_fields": {
+      "job_title": "COO",
+      "store_count": "13",
+      "gtm_play": "expansion|vm|visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at The Webster's new Hackensack store?",
+      "email_1_body": "Hi Cecile,\n\nCongrats on the upcoming opening in Hackensack! With 13 locations, ensuring that your visual merchandising setups are consistent across all stores is crucial as you expand.\n\nAs you scale, verifying that new displays are set up correctly often requires regional managers to travel or chase store managers for updates. \n\nI put together a quick flowchart showing how district managers can audit VM compliance across all locations in under 5 minutes using automated photo verification. \n\nWould you be interested in seeing how this could streamline your operations?\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Cecile,\n\nJust following up on my previous email. I wanted to check if:\n\n- Your team is still managing VM setups and compliance manually across your 13 locations.\n- Regional managers are spending time traveling to verify displays.\n- Store managers are using WhatsApp or Excel for daily updates.\n\nAs you prepare for the new openings, I believe our solution could save time and enhance visibility across all stores. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our platform with your team.\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "kbarron@gorsuch.com",
+    "first_name": "Kathleen",
+    "last_name": "Barron",
+    "company_name": "Gorsuch",
+    "website": "gorsuch.com",
+    "location": "Vail, Colorado, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/kathleen-barron-386b8159/",
+    "custom_fields": {
+      "job_title": "Director of Operations",
+      "store_count": "5",
+      "gtm_play": "manual_ops|whatsapp_lag",
+      "play_name": "Campaign 2 Option 1: Excel & WhatsApp Lag (PQS)",
+      "generation_source": "openai",
+      "email_1_subject": "Streamline Gorsuch's store tasks + compliance into one app",
+      "email_1_body": "Hi Kathleen,\n\nI noticed Gorsuch has around 5 locations in Vail and nearby areas. Managing daily tasks and compliance across these stores without a digital ops tool can be time-consuming, especially if you're relying on paper or Excel.\n\nMany retail teams waste 4+ hours a week per manager just coordinating checklists and audits over WhatsApp. We help brands like Footlocker and Miniso digitize these processes into a single mobile app.\n\nCould a tool like this help streamline operations at Gorsuch? Happy to set up a 30-min demo next week if you're interested.\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Kathleen,\n\nJust following up on my previous email. I'm curious:\n- Are your store managers still using paper or Excel for daily tasks?\n- Is compliance tracked manually, leading to delays in reporting?\n- How much time do your managers spend coordinating checklists via WhatsApp?\n\nWith Gorsuch's 5 locations, having a streamlined process could enhance visibility and efficiency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our app with your existing checklists.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "jessica@aviatornation.com",
+    "first_name": "Jessica",
+    "last_name": "Madrid",
+    "company_name": "Aviator Nation",
+    "website": "aviatornation.com",
+    "location": "Ventura, California, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/jessica-madrid-925229139/",
+    "custom_fields": {
+      "job_title": "Vice President of Retail Operations",
+      "store_count": "20+",
+      "gtm_play": "manual_ops|whatsapp_lag",
+      "play_name": "Campaign 2 Option 1: Excel & WhatsApp Lag (PQS)",
+      "generation_source": "openai",
+      "email_1_subject": "Digitise Aviator Nation's store tasks + comms into one app",
+      "email_1_body": "Hi Jessica,\n\nI noticed Aviator Nation has over 20 locations, and managing store tasks without a digital tool can lead to inefficiencies. \n\nWith your focus on team growth and success, I'm curious how your store managers currently handle daily checklists and communications. If they're relying on paper or WhatsApp, that could be costing valuable time.\n\nAt Amply, we help brands like Footlocker and ASICS streamline their operations by digitizing tasks into one mobile app. Would you be open to a 30-min demo next week to explore how we can support your team's efforts?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Jessica,\n\nJust following up on my last email. I wanted to check in if:\n- Your store managers are still using paper or Excel for daily checklists?\n- Communication is happening over WhatsApp, leading to delays?\n- You\u2019re facing challenges in maintaining consistent operational standards across your 20+ locations?\n\nWith your focus on team success, I believe digitizing these processes could significantly enhance efficiency.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to get started with your own checklists!\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "natalie.khalil@scanlantheodore.com",
+    "first_name": "Natalie",
+    "last_name": "Khalil",
+    "company_name": "Scanlan Theodore",
+    "website": "scanlantheodore.com",
+    "location": "Melbourne, Victoria, Australia",
+    "linkedin_profile": "https://www.linkedin.com/in/natalie-khalil-68546a6a/",
+    "custom_fields": {
+      "job_title": "Head of Visual Merchandising",
+      "store_count": "31",
+      "gtm_play": "expansion|vm|visibility_gap",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Scanlan Theodore's new stores?",
+      "email_1_body": "Hi Natalie,\n\nCongrats on the new store openings in your expansion city! With 31 locations now, ensuring that visual merchandising displays are set up correctly across all stores can be challenging.\n\nI\u2019ve noticed that many brands struggle with verifying compliance without regional travel or manual follow-ups. This often leads to gaps in display standards, especially with new locations.\n\nWe built a solution that digitizes VM audits, allowing district managers to verify compliance quickly through photo submissions. Would you be open to a 30-min demo next week to explore how this could streamline your operations?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Natalie,\n\nJust following up on my last email. I wanted to check if:\n- Your team is still managing VM compliance through manual checks.\n- There are challenges in verifying display setups across your new stores.\n- Regional managers are spending time traveling to ensure compliance.\n\nWith your recent expansion to 31 stores, having real-time visibility into VM setups could be a game changer.\n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test our solution with your current processes.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "pfeiffer@stussy.com",
+    "first_name": "Kelly",
+    "last_name": "H",
+    "company_name": "Stussy",
+    "website": "stussy.com",
+    "location": "Los Angeles, California, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/emanuel12cr/",
+    "custom_fields": {
+      "job_title": "Regional Operations Director",
+      "store_count": "25",
+      "gtm_play": "expansion|vm",
+      "play_name": "Visual Merchandising Expansion Trigger",
+      "generation_source": "openai",
+      "email_1_subject": "VM compliance at Stussy's new flagship store in New York?",
+      "email_1_body": "Hi Kelly,\n\nCongrats on the upcoming flagship store opening in New York on October 3, 2024! \n\nWith 25 locations, ensuring that visual merchandising displays are set up correctly can be challenging without a streamlined process. Many brands face difficulties verifying VM compliance across multiple stores without regional travel or manual check-ins.\n\nWe help retailers like Footlocker and Levi's digitize their VM audits using photo verification, allowing district managers to check compliance from their desks. \n\nWould you be open to a quick chat about how we can support Stussy's expansion?\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Kelly,\n\nJust following up on my previous email. I wanted to check if:\n- Your team is still manually verifying VM setups across your 25 locations.\n- Regional managers are spending time traveling to check compliance.\n- You're facing any challenges with maintaining consistent displays in the new flagship store.\n\nWith your expansion in New York, ensuring a seamless visual merchandising rollout is crucial. \n\nEven a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day trial to test our solution!\n\nBest,\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  },
+  {
+    "email": "abusacca@crossroadstrading.com",
+    "first_name": "Aruna",
+    "last_name": "Busacca",
+    "company_name": "Crossroads Trading",
+    "website": "crossroadstrading.com",
+    "location": "Berkeley, California, United States",
+    "linkedin_profile": "https://www.linkedin.com/in/aruna-busacca-1b911b26/",
+    "custom_fields": {
+      "job_title": "Chief Operating Officer",
+      "store_count": "38",
+      "gtm_play": "manual_ops|whatsapp_lag",
+      "play_name": "Campaign 2 Option 1: Excel & WhatsApp Lag (PQS)",
+      "generation_source": "openai",
+      "email_1_subject": "Streamline Crossroads Trading's store tasks + communication into one app",
+      "email_1_body": "Hi Aruna,\n\nNoticed Crossroads Trading has 38 locations and is actively expanding its retail presence. Managing store tasks and communication across this many locations can become a challenge, especially if you're relying on paper, Excel, or WhatsApp.\n\nWe help brands like Footlocker and Miniso digitize daily tasks and audits into a single mobile app, saving managers hours each week and providing real-time visibility.\n\nWould you be open to a quick 30-min demo next week to see how this could work for Crossroads Trading?\n\n--\nAnshul\nFounder @ Amply (backed by Google)\n+91 9706821560",
+      "email_2_body": "Hi Aruna,\n\nJust following up on my previous email. I wanted to check:\n- Are your store managers still using paper or Excel for daily tasks?\n- Is communication among your teams still happening over WhatsApp?\n- Are you finding it hard to track compliance across 38 locations?\n\nWith your ongoing expansion, having a streamlined process could be crucial. Even a one or two line reply will completely make my day.\n\nP.S. We offer a 15-day free trial to test our app with your checklists.\n\n--\nAnshul\nFounder @ Amply (backed by Google)"
+    }
+  }
+]

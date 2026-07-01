@@ -1,0 +1,25 @@
+{
+  "creators": [
+    {
+      "public_identifier": "vikashyavansh",
+      "name": "Vikash Kumar",
+      "niche": "n8n automation, AI agents, automation agency",
+      "linkedin_url": "https://www.linkedin.com/in/vikashyavansh/",
+      "scraped_at": "2026-07-01T10:50:02.933645+00:00",
+      "months_window": 12,
+      "post_count": 365,
+      "notes": "High volume, comment-gated lead magnets, number-led hooks, ~1K chars/post"
+    },
+    {
+      "public_identifier": "michel-lieben",
+      "name": "Michel Lieben",
+      "niche": "GTM systems, ColdIQ, Claude Code outbound",
+      "linkedin_url": "https://www.linkedin.com/in/michel-lieben/",
+      "scraped_at": "2026-07-01T10:50:37.009219+00:00",
+      "months_window": 12,
+      "post_count": 237,
+      "notes": "Deep playbooks, tool-stack posts, longer format ~2K chars, direct link CTAs"
+    }
+  ],
+  "last_updated": "2026-07-01T10:50:37.009219+00:00"
+}

@@ -816,3 +816,33 @@ From Wakefit note: *"Nilesh has got all the financial approvals from Ambarish to
 
 → Get the departing champion to introduce you to the replacement before they leave. Don't restart from scratch.
 
+---
+
+## PART 14 — SMARTLEAD CAMPAIGN MANAGEMENT & GTM SCORING (VVIP RULES)
+
+### 1. NEVER Wipe Existing Sequences (VVIP)
+When updating campaign sequences in Smartlead via API (`save_campaign_sequences`), the payload completely overwrites all existing sequences in that campaign.
+- **Rule**: ALWAYS fetch the current sequences first using `get_campaign_sequences` (e.g., campaign ID `3350025` for Brazil, `3349165` for Singapore).
+- **Rule**: Combine the existing sequences (e.g., sequences 1, 2, and 3) with any new sequences (e.g., sequences 4 and 5) in a single API call to ensure you do not delete or wipe out previous campaign history.
+
+### 2. Never Use AI Signatures (Em Dash "—")
+- **Rule**: Never use em dashes ("—") in email campaigns. It is a strong signature of AI-generated content. Use hyphens, commas, or standard punctuation instead.
+
+### 3. Brazilian/Portuguese Campaign Specifics
+- **Language**: Use Brazilian Portuguese specifically.
+- **Pain Signals & EDP**: WhatsApp and Excel are the dominant tools for store operations in Brazil. Frame the pain around "chasing daily tasks over WhatsApp/Excel" and the "HQ delay in finding out which stores are underperforming".
+- **Social Proof**: Use international brands like Kanmo Group, ASICS, Levi's, FootLocker, MANGO.
+- **Upfront Offer (PVP)**: Offer to digitize raw checklists for free in 2 days with zero meetings or upfront commitment.
+- **Images/Loom**:
+  - Never use NRF (National Retail Federation) images in Brazilian/Portuguese campaigns.
+  - Variant A should use Map View (`https://assets.smartlead.ai/user/51759/4b3b691e-099e-40bf-a66d-95ecdf73b5c1/map_view.jpg`) and AI Compliance (`https://assets.smartlead.ai/user/51759/0b5c8446-208a-49c2-87f5-de0b73d5ff3f/amply_AI_stack_compliance.jpg`).
+  - Variant B can use the Loom video walkthrough link (`https://www.loom.com/share/b8c074116ed94839bdb3bbfa9cc0763c` with thumbnail `https://cdn.loom.com/sessions/thumbnails/b8c074116ed94839bdb3bbfa9cc0763c-fa544e1a386ccc62-full-play.gif#t=0.1`).
+
+### 4. GTM Campaign Scoring Rules (Aim for 9+/10)
+Evaluate and score outreach copy against the GTM Brainstorming principles across these dimensions:
+- **PQS / Situation** (Is it a specific operational tension rather than just job title/persona?)
+- **EDP / Pain Signal** (Are WhatsApp/Excel mentioned as the explicit tools of friction?)
+- **PVP** (Is there permissionless value upfront, like free setup/trial?)
+- **Voice** (Direct, casual, short paragraphs, specific time slots, no "hope this finds you well")
+- **Subject lines** (Pain-specific or social proof, personalized)
+- **Deliverability** (Blank subjects for replies, threading, spintax in breakup emails)

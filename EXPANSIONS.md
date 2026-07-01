@@ -57,6 +57,7 @@ Anti-patterns. These look helpful but rot the structure:
 - **Don't build folder-of-folders for organization theater.** Flat with good naming beats deep nesting. If you need a folder hierarchy to find something, you have a search problem, not an organization problem.
 - **Don't add `notes/`, `misc/`, `tmp/`, or `inbox/`.** Graveyards. Use `archives/` if it's old, write a real file in the right place if it's new.
 - **Don't pre-create folders you don't need yet.** Empty folders are noise. The AIOS will tell you when it's time.
+- **Don't put scripts, JSON, CSV, or scrape dumps inside `PersonalOS/`.** PersonalOS is refined markdown only. Tooling lives in `.claude/skills/` or `scripts/`; distill insights back as short notes. See `PersonalOS/00_System/references/personalos-vault-rules.md`.
 - **Don't have parallel `decisions.md` and `decisions/log.md`.** Pick one. The kit ships `decisions/log.md`.
 - **Don't fork your operating manual.** One `CLAUDE.md` at the root. Sub-OS folders can have their own scoped CLAUDE.md, but the root is canonical.
 

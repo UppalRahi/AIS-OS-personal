@@ -13,6 +13,7 @@ Read `references/3ms-framework.md` once. It's how Rahi thinks about AI work. Min
 - `/onboard` — already run. Re-run any time to refresh from an edited `aios-intake.md`.
 - `/audit` — Four-Cs gap report. Run on Day 7, then weekly. Watch your score climb.
 - `/level-up` — Weekly 3Ms interview. Find one automation, scope it, ship it. One per week.
+- `/linkedin-content` — 7-question intake for LinkedIn posts; you answer raw, agent refines lightly. Drafts in `PersonalOS/10_Life_OS/LinkedIn/`.
 
 ## Where things live
 
